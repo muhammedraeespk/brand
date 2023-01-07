@@ -1,0 +1,4829 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="google-site-verification" content="pqjvMifXVFqQb2z_OZMEiHoNFCg-j0HHbz4U6RiiQjU" />
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<!-- Iubenda -->
+	<script type="text/javascript">
+		var _iub = _iub || [];
+		_iub.csConfiguration = {"lang":"en","siteId":546813,"cookiePolicyId":7847333, "banner":{ "position":"top","acceptButtonDisplay":true,"customizeButtonDisplay":true }};
+	</script>
+	<script type="text/javascript" src="//cdn.iubenda.com/cs/iubenda_cs.js" charset="UTF-8" async></script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-77789960-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-77789960-1', { 'anonymize_ip': true });
+	</script>
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<link rel="preload" as="font" href="https://www.designlabthemes.com/wp-content/themes/design-lab/assets/fonts/Averta-Extrabold.woff2" crossorigin="anonymous" type="font/woff2">
+	<link rel="preload" as="font" href="https://www.designlabthemes.com/wp-content/themes/design-lab/assets/fonts/Averta-Bold.woff2" crossorigin="anonymous" type="font/woff2">
+	<link rel="preload" as="font" href="https://www.designlabthemes.com/wp-content/themes/design-lab/assets/fonts/Averta-Semibold.woff2" crossorigin="anonymous" type="font/woff2">
+	<link rel="preload" as="font" href="https://www.designlabthemes.com/wp-content/themes/design-lab/assets/fonts/Averta-Regular.woff2" crossorigin="anonymous" type="font/woff2">
+	<style>
+	
+	@font-face {
+		font-family: "Averta";
+		src: url("https://www.designlabthemes.com/wp-content/themes/design-lab/assets/fonts/Averta-Extrabold.woff2") format("woff2"),
+		url("https://www.designlabthemes.com/wp-content/themes/design-lab/assets/fonts/Averta-Extrabold.woff") format("woff");
+		font-weight: 800;
+		font-style: normal;
+		font-display: swap;
+	}
+	@font-face {
+		font-family: "Averta";
+		src: url("https://www.designlabthemes.com/wp-content/themes/design-lab/assets/fonts/Averta-Bold.woff2") format("woff2"),
+		url("https://www.designlabthemes.com/wp-content/themes/design-lab/assets/fonts/Averta-Bold.woff") format("woff");
+		font-weight: 700;
+		font-style: normal;
+		font-display: swap;
+	}
+	@font-face {
+		font-family: "Averta";
+		src: url("https://www.designlabthemes.com/wp-content/themes/design-lab/assets/fonts/Averta-Semibold.woff2") format("woff2"),
+		url("https://www.designlabthemes.com/wp-content/themes/design-lab/assets/fonts/Averta-Semibold.woff") format("woff");
+		font-weight: 600;
+		font-style: normal;
+		font-display: swap;
+	}
+	@font-face {
+		font-family: "Averta";
+		src: url("https://www.designlabthemes.com/wp-content/themes/design-lab/assets/fonts/Averta-Regular.woff2") format("woff2"),
+		url("https://www.designlabthemes.com/wp-content/themes/design-lab/assets/fonts/Averta-Regular.woff") format("woff");
+		font-weight: 400;
+		font-style: normal;
+		font-display: swap;
+	}	</style>
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Basic SEO tips for bloggers - Design Lab Themes</title>
+	<meta name="description" content="Basic SEO tips for bloggers to Improve Search Engine Optimization. How to rank better on Google search results page with ease." />
+	<link rel="canonical" href="https://www.designlabthemes.com/basic-seo-tips-for-bloggers/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Basic SEO tips for bloggers - Design Lab Themes" />
+	<meta property="og:description" content="Basic SEO tips for bloggers to Improve Search Engine Optimization. How to rank better on Google search results page with ease." />
+	<meta property="og:url" content="https://www.designlabthemes.com/basic-seo-tips-for-bloggers/" />
+	<meta property="og:site_name" content="Design Lab Themes" />
+	<meta property="article:published_time" content="2021-09-22T11:30:00+00:00" />
+	<meta property="article:modified_time" content="2021-09-22T15:20:44+00:00" />
+	<meta property="og:image" content="https://www.designlabthemes.com/wp-content/uploads/2013/09/seo-tips.png" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="690" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="author" content="Design Lab" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Design Lab" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="3 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://www.designlabthemes.com/basic-seo-tips-for-bloggers/#article","isPartOf":{"@id":"https://www.designlabthemes.com/basic-seo-tips-for-bloggers/"},"author":{"name":"Design Lab","@id":"https://www.designlabthemes.com/#/schema/person/848851bd7ec0abc5be3804052a6fe315"},"headline":"Basic SEO tips for bloggers","datePublished":"2021-09-22T11:30:00+00:00","dateModified":"2021-09-22T15:20:44+00:00","mainEntityOfPage":{"@id":"https://www.designlabthemes.com/basic-seo-tips-for-bloggers/"},"wordCount":436,"publisher":{"@id":"https://www.designlabthemes.com/#organization"},"image":{"@id":"https://www.designlabthemes.com/basic-seo-tips-for-bloggers/#primaryimage"},"thumbnailUrl":"https://www.designlabthemes.com/wp-content/uploads/2013/09/seo-tips.png","keywords":["SEO"],"articleSection":["Resources"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://www.designlabthemes.com/basic-seo-tips-for-bloggers/","url":"https://www.designlabthemes.com/basic-seo-tips-for-bloggers/","name":"Basic SEO tips for bloggers - Design Lab Themes","isPartOf":{"@id":"https://www.designlabthemes.com/#website"},"primaryImageOfPage":{"@id":"https://www.designlabthemes.com/basic-seo-tips-for-bloggers/#primaryimage"},"image":{"@id":"https://www.designlabthemes.com/basic-seo-tips-for-bloggers/#primaryimage"},"thumbnailUrl":"https://www.designlabthemes.com/wp-content/uploads/2013/09/seo-tips.png","datePublished":"2021-09-22T11:30:00+00:00","dateModified":"2021-09-22T15:20:44+00:00","description":"Basic SEO tips for bloggers to Improve Search Engine Optimization. How to rank better on Google search results page with ease.","breadcrumb":{"@id":"https://www.designlabthemes.com/basic-seo-tips-for-bloggers/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.designlabthemes.com/basic-seo-tips-for-bloggers/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.designlabthemes.com/basic-seo-tips-for-bloggers/#primaryimage","url":"https://www.designlabthemes.com/wp-content/uploads/2013/09/seo-tips.png","contentUrl":"https://www.designlabthemes.com/wp-content/uploads/2013/09/seo-tips.png","width":1200,"height":690},{"@type":"BreadcrumbList","@id":"https://www.designlabthemes.com/basic-seo-tips-for-bloggers/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.designlabthemes.com/"},{"@type":"ListItem","position":2,"name":"Design Lab Blog","item":"https://www.designlabthemes.com/blog/"},{"@type":"ListItem","position":3,"name":"Basic SEO tips for bloggers"}]},{"@type":"WebSite","@id":"https://www.designlabthemes.com/#website","url":"https://www.designlabthemes.com/","name":"Design Lab Themes","description":"","publisher":{"@id":"https://www.designlabthemes.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.designlabthemes.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.designlabthemes.com/#organization","name":"Design Lab Themes","url":"https://www.designlabthemes.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.designlabthemes.com/#/schema/logo/image/","url":"https://www.designlabthemes.com/wp-content/uploads/2021/08/designlab-icon-2021.png","contentUrl":"https://www.designlabthemes.com/wp-content/uploads/2021/08/designlab-icon-2021.png","width":512,"height":512,"caption":"Design Lab Themes"},"image":{"@id":"https://www.designlabthemes.com/#/schema/logo/image/"}},{"@type":"Person","@id":"https://www.designlabthemes.com/#/schema/person/848851bd7ec0abc5be3804052a6fe315","name":"Design Lab","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.designlabthemes.com/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/956873f77232371cb89d8a0d7a516354?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/956873f77232371cb89d8a0d7a516354?s=96&d=mm&r=g","caption":"Design Lab"},"url":"https://www.designlabthemes.com/author/designlab/"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" type="application/rss+xml" title="Design Lab Themes &raquo; Feed" href="https://www.designlabthemes.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Design Lab Themes &raquo; Comments Feed" href="https://www.designlabthemes.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Design Lab Themes &raquo; Basic SEO tips for bloggers Comments Feed" href="https://www.designlabthemes.com/basic-seo-tips-for-bloggers/feed/" />
+<link rel='stylesheet' id='sgr-css' href='https://www.designlabthemes.com/wp-content/plugins/simple-google-recaptcha/sgr.css?ver=1663592361' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.designlabthemes.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1' type='text/css' media='all' />
+<style id='edd-downloads-style-inline-css' type='text/css'>
+.edd-blocks__columns{grid-gap:1rem;display:grid}@media(min-width:600px){.edd-blocks__columns{grid-template-columns:repeat(2,50%)}}@media(min-width:960px){.edd-blocks__columns-3{grid-template-columns:repeat(3,1fr)}.edd-blocks__columns-4{grid-template-columns:repeat(4,1fr)}.edd-blocks__columns-5{grid-template-columns:repeat(5,1fr)}.edd-blocks__columns-6{grid-template-columns:repeat(6,1fr)}}.wp-block-edd-downloads .navigation{border:none;display:flex;gap:.5rem;justify-content:center;margin:2rem 0}.wp-block-edd-downloads .page-numbers{border:1px solid;border-radius:3px;padding:.5rem 1rem}.edd-blocks__downloads{display:grid;gap:2rem}.edd-blocks__columns .edd-blocks__download{display:flex;flex-direction:column;padding:1rem}.edd-blocks__columns .edd-blocks__download-content{flex-grow:1}.edd-blocks__download-image-link{border:none;padding:0}.edd-blocks__download-image-link img{display:block;height:auto;max-width:100%}.wp-block-edd-buy-button .edd-submit{display:table}.wp-block-edd-buy-button .aligncenter,.wp-block-edd-buy-button .alignwide{margin:0 auto}.wp-block-edd-buy-button .alignright{margin:0 0 0 auto}.wp-block-edd-buy-button .alignleft{margin:0 auto 0 0}.wp-block-edd-buy-button .alignwide{width:100%}
+
+</style>
+<style id='edd-buy-button-style-inline-css' type='text/css'>
+.wp-block-edd-buy-button .edd-submit{display:table}.wp-block-edd-buy-button .aligncenter,.wp-block-edd-buy-button .alignwide{margin:0 auto}.wp-block-edd-buy-button .alignright{margin:0 0 0 auto}.wp-block-edd-buy-button .alignleft{margin:0 auto 0 0}.wp-block-edd-buy-button .alignwide{width:100%}
+
+</style>
+<style id='edd-login-style-inline-css' type='text/css'>
+.screen-reader-text{clip:rect(1px,1px,1px,1px);word-wrap:normal!important;border:0;-webkit-clip-path:inset(50%);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.edd-blocks-form{border:1px solid var(--edd-blocks-light-grey);display:grid;gap:1.25rem;padding:2rem}.widget .edd-blocks-form{border:none;padding:0}.edd-blocks-form .edd-blocks-form__group,.edd-blocks-form legend{display:block;margin:0}.edd-blocks-form .edd-blocks-form__group>label{display:block;margin-bottom:.5rem!important}.edd-blocks-form input[type=email],.edd-blocks-form input[type=password],.edd-blocks-form input[type=text],.edd-blocks-form select{box-sizing:border-box;display:block;padding:4px 6px;width:100%}.edd-blocks-form .edd-blocks-form__halves{display:flex!important;gap:1rem;justify-content:space-between}@media(min-width:600px){.edd-blocks-form .edd-blocks-form__halves>*{flex-basis:50%}}p+.edd-blocks-form{margin-top:2rem}.edd-button-secondary,.edd-submit{transition:all .2s ease-in-out}.edd-button-secondary:active,.edd-button-secondary:hover,.edd-submit:active,.edd-submit:hover{transform:translateY(-1px)}.edd-button-secondary{background-color:var(--edd-blocks-light-grey);border:1px solid #ddd;border-radius:4px;color:unset;margin:0;padding:.5rem 1rem}.edd-button-secondary:disabled{opacity:.6}.wp-block-edd-login #pass-strength-result{background-color:#f0f0f1;border:1px solid #dcdcde;box-sizing:border-box;color:#1d2327;margin:-1px 1px 5px;opacity:0;padding:3px 5px;text-align:center}.wp-block-edd-login #pass-strength-result.short{background-color:#ffabaf;border-color:#e65054;opacity:1}.wp-block-edd-login #pass-strength-result.bad{background-color:#facfd2;border-color:#f86368;opacity:1}.wp-block-edd-login #pass-strength-result.good{background-color:#f5e6ab;border-color:#f0c33c;opacity:1}.wp-block-edd-login #pass-strength-result.strong{background-color:#b8e6bf;border-color:#68de7c;opacity:1}.wp-block-edd-login .wp-pwd.is-open{position:relative}.wp-block-edd-login .button.wp-hide-pw{background:transparent;border:1px solid transparent;box-shadow:none;color:#555;font-size:14px;height:2.5rem;line-height:2;margin:0;min-height:40px;min-width:40px;padding:5px 9px;position:absolute;right:0;top:0;width:2.5rem}.wp-block-edd-login .button.wp-hide-pw .dashicons{display:block}.wp-block-edd-login div.reset-pass-submit{align-items:center;display:flex;justify-content:space-between}.wp-block-edd-login .edd-alert p,.wp-block-edd-login p{margin:0;padding:0}
+
+</style>
+<style id='edd-register-style-inline-css' type='text/css'>
+.screen-reader-text{clip:rect(1px,1px,1px,1px);word-wrap:normal!important;border:0;-webkit-clip-path:inset(50%);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.edd-blocks-form{border:1px solid var(--edd-blocks-light-grey);display:grid;gap:1.25rem;padding:2rem}.widget .edd-blocks-form{border:none;padding:0}.edd-blocks-form .edd-blocks-form__group,.edd-blocks-form legend{display:block;margin:0}.edd-blocks-form .edd-blocks-form__group>label{display:block;margin-bottom:.5rem!important}.edd-blocks-form input[type=email],.edd-blocks-form input[type=password],.edd-blocks-form input[type=text],.edd-blocks-form select{box-sizing:border-box;display:block;padding:4px 6px;width:100%}.edd-blocks-form .edd-blocks-form__halves{display:flex!important;gap:1rem;justify-content:space-between}@media(min-width:600px){.edd-blocks-form .edd-blocks-form__halves>*{flex-basis:50%}}p+.edd-blocks-form{margin-top:2rem}.edd-button-secondary,.edd-submit{transition:all .2s ease-in-out}.edd-button-secondary:active,.edd-button-secondary:hover,.edd-submit:active,.edd-submit:hover{transform:translateY(-1px)}.edd-button-secondary{background-color:var(--edd-blocks-light-grey);border:1px solid #ddd;border-radius:4px;color:unset;margin:0;padding:.5rem 1rem}.edd-button-secondary:disabled{opacity:.6}.wp-block-edd-register .edd-blocks-form__group-password .edd-blocks-form__control{position:relative}.wp-block-edd-register #pass-strength-result{background-color:#f0f0f1;border:1px solid #dcdcde;box-sizing:border-box;color:#1d2327;margin:-1px 1px 5px;opacity:0;padding:3px 5px;text-align:center}.wp-block-edd-register #pass-strength-result.short{background-color:#ffabaf;border-color:#e65054;opacity:1}.wp-block-edd-register #pass-strength-result.bad{background-color:#facfd2;border-color:#f86368;opacity:1}.wp-block-edd-register #pass-strength-result.good{background-color:#f5e6ab;border-color:#f0c33c;opacity:1}.wp-block-edd-register #pass-strength-result.strong{background-color:#b8e6bf;border-color:#68de7c;opacity:1}.wp-block-edd-register .wp-pwd.is-open{position:relative}.wp-block-edd-register .button.wp-hide-pw{background:transparent;border:1px solid transparent;box-shadow:none;color:#555;font-size:14px;height:2.5rem;line-height:2;margin:0;min-height:40px;min-width:40px;padding:5px 9px;position:absolute;right:0;top:0;width:2.5rem}.wp-block-edd-register .button.wp-hide-pw .dashicons{display:block}.wp-block-edd-register div.edd-blocks-form__group-submit{align-items:center;display:flex;justify-content:space-between}.wp-block-edd-register .edd-alert p,.wp-block-edd-register p{margin:0;padding:0}
+
+</style>
+<style id='edd-order-history-style-inline-css' type='text/css'>
+.edd-blocks__columns{grid-gap:1rem;display:grid}@media(min-width:600px){.edd-blocks__columns{grid-template-columns:repeat(2,50%)}}@media(min-width:960px){.edd-blocks__columns-3{grid-template-columns:repeat(3,1fr)}.edd-blocks__columns-4{grid-template-columns:repeat(4,1fr)}.edd-blocks__columns-5{grid-template-columns:repeat(5,1fr)}.edd-blocks__columns-6{grid-template-columns:repeat(6,1fr)}}.edd-blocks-form{border:1px solid var(--edd-blocks-light-grey);display:grid;gap:1.25rem;padding:2rem}.widget .edd-blocks-form{border:none;padding:0}.edd-blocks-form .edd-blocks-form__group,.edd-blocks-form legend{display:block;margin:0}.edd-blocks-form .edd-blocks-form__group>label{display:block;margin-bottom:.5rem!important}.edd-blocks-form input[type=email],.edd-blocks-form input[type=password],.edd-blocks-form input[type=text],.edd-blocks-form select{box-sizing:border-box;display:block;padding:4px 6px;width:100%}.edd-blocks-form .edd-blocks-form__halves{display:flex!important;gap:1rem;justify-content:space-between}@media(min-width:600px){.edd-blocks-form .edd-blocks-form__halves>*{flex-basis:50%}}p+.edd-blocks-form{margin-top:2rem}.edd-button-secondary,.edd-submit{transition:all .2s ease-in-out}.edd-button-secondary:active,.edd-button-secondary:hover,.edd-submit:active,.edd-submit:hover{transform:translateY(-1px)}.edd-button-secondary{background-color:var(--edd-blocks-light-grey);border:1px solid #ddd;border-radius:4px;color:unset;margin:0;padding:.5rem 1rem}.edd-button-secondary:disabled{opacity:.6}.edd-blocks__orders-grid{display:grid;gap:1rem}.edd-blocks-orders__order{border:1px solid var(--edd-blocks-light-grey);display:flex;flex-direction:column;gap:1rem;padding:1rem}.edd-blocks-orders__order-data,.edd-blocks-orders__order-header{display:flex;flex-wrap:wrap;justify-content:space-between}.edd-blocks-orders__order-header{border-bottom:1px solid var(--edd-blocks-light-grey);padding-bottom:.5rem}.edd-blocks-orders__order-id{font-weight:700}.edd-blocks-orders__order-details{flex-basis:100%}
+
+</style>
+<style id='edd-confirmation-style-inline-css' type='text/css'>
+.edd-blocks__row{align-items:center;display:grid;gap:1rem}.edd-blocks__row-label{font-weight:700}@media(min-width:480px){.edd-blocks__row{grid-template-columns:1fr 1fr}.edd-blocks__row>div:last-of-type:not(:first-of-type){text-align:right}.edd-blocks__row>div:only-child{grid-column:1/span 2}}.edd-blocks-receipt__items,.edd-blocks-receipt__totals{border:1px solid var(--edd-blocks-light-grey);display:grid;margin:0 auto 1.5rem;padding:1rem}.edd-blocks-receipt__row-item{border-bottom:1px solid var(--edd-blocks-light-grey);padding:.5rem 0}.edd-blocks-receipt__row-item:last-child{border-bottom:none!important}.edd-blocks-receipt__row-header{border-bottom:1px solid var(--edd-blocks-light-grey);font-size:1.1rem;font-weight:700;padding-bottom:.5rem}
+
+</style>
+<style id='edd-receipt-style-inline-css' type='text/css'>
+.screen-reader-text{clip:rect(1px,1px,1px,1px);word-wrap:normal!important;border:0;-webkit-clip-path:inset(50%);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.edd-blocks__row{align-items:center;display:grid;gap:1rem}.edd-blocks__row-label{font-weight:700}@media(min-width:480px){.edd-blocks__row{grid-template-columns:1fr 1fr}.edd-blocks__row>div:last-of-type:not(:first-of-type){text-align:right}.edd-blocks__row>div:only-child{grid-column:1/span 2}}.edd-blocks-form{border:1px solid var(--edd-blocks-light-grey);display:grid;gap:1.25rem;padding:2rem}.widget .edd-blocks-form{border:none;padding:0}.edd-blocks-form .edd-blocks-form__group,.edd-blocks-form legend{display:block;margin:0}.edd-blocks-form .edd-blocks-form__group>label{display:block;margin-bottom:.5rem!important}.edd-blocks-form input[type=email],.edd-blocks-form input[type=password],.edd-blocks-form input[type=text],.edd-blocks-form select{box-sizing:border-box;display:block;padding:4px 6px;width:100%}.edd-blocks-form .edd-blocks-form__halves{display:flex!important;gap:1rem;justify-content:space-between}@media(min-width:600px){.edd-blocks-form .edd-blocks-form__halves>*{flex-basis:50%}}p+.edd-blocks-form{margin-top:2rem}.edd-button-secondary,.edd-submit{transition:all .2s ease-in-out}.edd-button-secondary:active,.edd-button-secondary:hover,.edd-submit:active,.edd-submit:hover{transform:translateY(-1px)}.edd-button-secondary{background-color:var(--edd-blocks-light-grey);border:1px solid #ddd;border-radius:4px;color:unset;margin:0;padding:.5rem 1rem}.edd-button-secondary:disabled{opacity:.6}.edd-blocks-receipt__items,.edd-blocks-receipt__totals{border:1px solid var(--edd-blocks-light-grey);display:grid;margin:0 auto 1.5rem;padding:1rem}.edd-blocks-receipt__row-item{border-bottom:1px solid var(--edd-blocks-light-grey);padding:.5rem 0}.edd-blocks-receipt__row-item:last-child{border-bottom:none!important}.edd-blocks-receipt__row-header{border-bottom:1px solid var(--edd-blocks-light-grey);font-size:1.1rem;font-weight:700;padding-bottom:.5rem}.edd-blocks-receipt__items .edd-blocks__row{border-bottom:1px solid var(--edd-blocks-light-grey);padding:.5rem 0}
+
+</style>
+<style id='edd-terms-style-inline-css' type='text/css'>
+.edd-blocks__columns{grid-gap:1rem;display:grid}@media(min-width:600px){.edd-blocks__columns{grid-template-columns:repeat(2,50%)}}@media(min-width:960px){.edd-blocks__columns-3{grid-template-columns:repeat(3,1fr)}.edd-blocks__columns-4{grid-template-columns:repeat(4,1fr)}.edd-blocks__columns-5{grid-template-columns:repeat(5,1fr)}.edd-blocks__columns-6{grid-template-columns:repeat(6,1fr)}}.wp-block-edd-terms{grid-gap:1rem;display:grid}.wp-block-edd-terms img{display:block;height:auto;max-width:100%}.edd-blocks__term-title{align-items:center;display:flex;gap:.5rem}
+
+</style>
+<style id='edd-cart-style-inline-css' type='text/css'>
+.edd-blocks-form__cart .edd_cart_remove_item_btn{border:none;margin-left:.5rem;padding:0;text-decoration:none}.edd-blocks-form__cart .edd_cart_remove_item_btn svg{opacity:.6}.edd-blocks-form__cart .edd_cart_remove_item_btn svg:hover{opacity:.9}.edd-blocks-form__cart #edd_checkout_cart{border:1px solid #eee;display:grid}.edd-blocks-form__cart .edd_cart_item_name{display:grid;gap:1rem}.edd-blocks-form__cart .edd_cart_item_name .edd_cart_actions{align-items:center;display:inline-flex;flex-basis:100%;gap:.5rem}.edd-blocks-form__cart .edd_cart_item_name .edd_cart_actions label{margin:0!important}.edd-blocks-form__cart .edd_cart_item_name .edd_cart_actions input.edd-item-quantity{width:3rem!important}.edd-blocks-form__cart .edd_checkout_cart_item_title{align-items:center;display:flex;gap:1rem}.edd-blocks-form__cart .edd_cart_fee_amount,.edd-blocks-form__cart .edd_cart_item_price{align-items:center;display:flex;gap:.5rem}@media(min-width:480px){.edd-blocks-form__cart .edd_cart_fee_amount,.edd-blocks-form__cart .edd_cart_item_price{justify-content:flex-end}}.edd-blocks-form__cart .edd-blocks-cart__row{align-items:center;display:flex;flex-wrap:wrap;gap:1rem;padding:1.5rem}.edd-blocks-form__cart .edd-blocks-cart__row>div:last-of-type:not(:first-of-type){flex:1 1 110px}@media(min-width:480px){.edd-blocks-form__cart .edd-blocks-cart__row>div:last-of-type:not(:first-of-type){text-align:right}}.edd-blocks-form__cart .edd-blocks-cart__items,.edd-blocks-form__cart .edd-blocks-cart__row-header{border-bottom:1px solid #eee}.edd-blocks-form__cart .edd-blocks-cart__row-header,.edd-blocks-form__cart .edd_cart_total{font-weight:700}.edd-blocks-form__cart .edd-blocks-cart__row-footer{text-align:right}.edd-blocks-form__cart .edd-blocks-cart__row-footer>div:only-child{flex-grow:1}.edd-blocks-form__cart .edd-blocks-cart__action-remove,.edd-blocks-form__cart .edd_discount_remove{background:url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMWVtIiBoZWlnaHQ9IjFlbSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2U9ImN1cnJlbnRDb2xvciIgY2xhc3M9InctNiBoLTYiPgogIDxwYXRoIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgZD0iTTE0Ljc0IDlsLS4zNDYgOW0tNC43ODggMEw5LjI2IDltOS45NjgtMy4yMWMuMzQyLjA1Mi42ODIuMTA3IDEuMDIyLjE2Nm0tMS4wMjItLjE2NUwxOC4xNiAxOS42NzNhMi4yNSAyLjI1IDAgMDEtMi4yNDQgMi4wNzdIOC4wODRhMi4yNSAyLjI1IDAgMDEtMi4yNDQtMi4wNzdMNC43NzIgNS43OW0xNC40NTYgMGE0OC4xMDggNDguMTA4IDAgMDAtMy40NzgtLjM5N20tMTIgLjU2MmMuMzQtLjA1OS42OC0uMTE0IDEuMDIyLS4xNjVtMCAwYTQ4LjExIDQ4LjExIDAgMDEzLjQ3OC0uMzk3bTcuNSAwdi0uOTE2YzAtMS4xOC0uOTEtMi4xNjQtMi4wOS0yLjIwMWE1MS45NjQgNTEuOTY0IDAgMDAtMy4zMiAwYy0xLjE4LjAzNy0yLjA5IDEuMDIyLTIuMDkgMi4yMDF2LjkxNm03LjUgMGE0OC42NjcgNDguNjY3IDAgMDAtNy41IDAiIC8+Cjwvc3ZnPgo=) 50% no-repeat;background-size:1em;box-shadow:none!important;display:block;height:1em;opacity:.6;top:0;width:1em}.edd-blocks-form__cart .edd-blocks-cart__action-remove:hover,.edd-blocks-form__cart .edd_discount_remove:hover{background-position:50%;opacity:1}.edd-blocks-form__cart .edd_cart_item_image img{display:block}.edd-blocks__cart-mini,.edd-blocks__cart-mini a{align-items:center;color:unset;display:flex;gap:.25rem;justify-content:flex-end;text-decoration:none}.edd-blocks__cart-mini a svg,.edd-blocks__cart-mini svg{fill:none;height:1.5rem;width:1.5rem}.wp-block-edd-cart .edd-blocks-cart__row-footer{padding:.5rem 1.5rem}
+
+</style>
+<link rel='stylesheet' id='edd-checkout-style-css' href='https://www.designlabthemes.com/wp-content/plugins/easy-digital-downloads/includes/blocks/build/checkout/style-index.css?ver=2.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://www.designlabthemes.com/wp-includes/css/classic-themes.min.css?ver=1' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--accent: #14CCB4;--wp--preset--color--dark: #151519;--wp--preset--color--gray: #909399;--wp--preset--color--light-gray: #f2f4f7;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 16px;--wp--preset--font-size--medium: 21px;--wp--preset--font-size--large: 24px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--extra-small: 14px;--wp--preset--font-size--normal: 18px;--wp--preset--font-size--larger: 36px;--wp--preset--font-size--huge: 48px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='edd-styles-css' href='https://www.designlabthemes.com/wp-content/plugins/easy-digital-downloads/assets/css/edd.min.css?ver=3.1.0.3' type='text/css' media='all' />
+<style id='edd-styles-inline-css' type='text/css'>
+body{--edd-blocks-light-grey:#eee;}
+</style>
+<script type='text/javascript' id='sgr-js-extra'>
+/* <![CDATA[ */
+var sgr = {"sgr_site_key":"6LebvxEaAAAAANES8Qm9dEIz56WREHlYlNYtRzJb"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.designlabthemes.com/wp-content/plugins/simple-google-recaptcha/sgr.js?ver=1663592361' id='sgr-js'></script>
+<script type='text/javascript' src='https://www.designlabthemes.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.designlabthemes.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="https://www.designlabthemes.com/wp-json/" /><link rel="alternate" type="application/json" href="https://www.designlabthemes.com/wp-json/wp/v2/posts/689" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.designlabthemes.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.designlabthemes.com/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.1.1" />
+<link rel='shortlink' href='https://www.designlabthemes.com/?p=689' />
+<link rel="alternate" type="application/json+oembed" href="https://www.designlabthemes.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.designlabthemes.com%2Fbasic-seo-tips-for-bloggers%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.designlabthemes.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.designlabthemes.com%2Fbasic-seo-tips-for-bloggers%2F&#038;format=xml" />
+<meta name="generator" content="Easy Digital Downloads v3.1.0.3" />
+<style id="dl_inline_style">/*
+Theme Name: Design Lab
+Theme URI: https://www.designlabthemes.com/wordpress-themes/
+Version: 1.2.0.98
+Author: Design Lab
+Author URI: https://www.designlabthemes.com/
+Description: Design Lab WordPress Theme
+Requires at least: 4.7
+Tested up to: 5.7.2
+Requires PHP: 5.6
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: design-lab
+Tags: one-column, custom-menu, featured-images, translation-ready
+*/
+
+
+/*
+Index:
+01: Reset
+02: Variables
+03: General
+04: Typography
+05: Elements
+06: Header
+07: Content
+08: Forms
+09: Footer
+10: Page Styles
+11: Page Templates
+12: Plugins
+13: Blocks
+14: Responsive
+*/
+
+
+/*
+ * 01: Reset
+ */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+	display: block
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote,q {
+	quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0
+}
+button {
+	cursor: pointer
+}
+
+/*
+ * 02: Variables
+ */
+:root {
+	--HeadingFontFamily: 'Averta', sans-serif;
+	--TextFontFamily: 'Averta', sans-serif;
+	--paletteColor1: #151519;
+	--paletteColor2: #909399;
+	--paletteColor3: #e3e5e8;
+	--paletteColor4: #f2f4f7;
+	--paletteColor5: #14CCB4;
+	--paletteColor6: #0ABFA8;
+	--paletteColor7: #8AE6C7;
+	--paletteColor8: #FFCC80;
+	--paletteColor9: #F9968B;
+	--paletteColor10: #7AD6EA;
+	--xs-max-width: 720px;
+	--sm-max-width: 960px;
+	--md-max-width: 1040px;
+	--lg-max-width: 1280px;
+}
+
+/*
+ * 03: General
+ */
+.container,
+.container-fluid {
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	width: 88vw;
+	transition: all 0.5s ease;
+	box-sizing: border-box;
+}
+.container {
+	max-width: var(--lg-max-width);
+}
+.container-fluid {
+	max-width: 100%;
+}
+.xs-container {
+	max-width: var(--xs-max-width);
+}
+.sm-container {
+	max-width: var(--sm-max-width);
+}
+.md-container {
+	max-width: var(--md-max-width);
+}
+.entry-content > *,
+.page-content > *,
+.entry-meta,
+.entry-footer,
+.comments-area {
+	max-width: var(--xs-max-width);
+	margin-left: auto;
+	margin-right: auto;
+}
+.entry-content .alignfull {
+	width: 100%;
+	max-width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.entry-content .alignfull .alignfull {
+	width: 100%;
+	margin-left: 0;
+	margin-right: 0;
+}
+.entry-content .alignwide {
+	width: 100%;
+	max-width: var(--md-max-width);
+	margin-left: auto;
+	margin-right: auto;
+}
+.entry-title,
+.page-title,
+.section-title {
+	max-width: var(--sm-max-width);
+	margin-left: auto;
+	margin-right: auto;
+}
+.section-subtitle,
+.entry-subtitle {
+	max-width: var(--xs-max-width);
+	margin-left: auto;
+	margin-right: auto;
+}
+.text-center {
+	text-align: center;
+}
+.has-bottom-margin,
+.section .has-bottom-margin {
+	margin-bottom: 30px;
+}
+.has-no-top-margin,
+.section .has-no-top-margin,
+.entry-content .has-no-top-margin {
+	margin-top: 0;
+}
+.has-no-bottom-margin,
+.section .has-no-bottom-margin,
+.entry-content .has-no-bottom-margin {
+	margin-bottom: 0;
+}
+.section .has-small-padding {
+	padding: 40px 0;
+}
+.section .has-large-padding {
+	padding: 60px 0;
+}
+.has-xs-margin {
+	margin-bottom: 10px;
+}
+
+/*
+ * 04: Typography
+ */
+html,
+body {
+	text-rendering: optimizeSpeed;
+}
+body {
+	word-wrap: break-word;
+	overflow-x: hidden;
+	background-color: #fff;
+}
+body,
+button,
+input,
+select,
+textarea {
+	color: #151519;
+	color: var(--paletteColor1);
+	font-family: var(--TextFontFamily);
+	font-size: 16px;
+	line-height: 1.75;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.section-title {
+	font-family: var(--TextFontFamily);
+	clear: both;
+	color: #151519;
+	color: var(--paletteColor1);
+}
+h1,
+h2,
+.section-title {
+	font-weight: 800;
+	line-height: 1.25;
+	margin: 40px 0 20px;
+}
+h3,
+h4,
+h5,
+h6 {
+	font-weight: 700;
+	line-height: 1.5;
+	margin: 30px 0 10px;
+}
+h1 {
+	font-size: 36px;
+	letter-spacing: -0.5px;
+}
+h2,
+.section-title {
+	font-size: 24px;
+}
+h3 {
+	font-size: 21px;
+}
+h4 {
+	font-size: 18px;
+}
+h5,
+h6 {
+	font-size: 14px;
+	text-transform: uppercase;
+	margin: 10px 0;
+}
+p {
+	margin: 0 0 30px 0;
+}
+.entry-header h1,
+.page-header h1 {
+	margin: 0 auto 10px;
+	padding: 0;
+	text-align: center;
+}
+.entry-header h1 span,
+.page-header h1 span {
+	display: inline-block;
+	position: relative;
+}
+.entry-header h2 {
+	font-size: 24px;
+	margin: 20px auto 10px;
+}
+.entry-title,
+.page-title,
+.entry-subtitle,
+.comments-title,
+.comment-reply-title {
+	text-align: center;
+}
+.comments-title,
+.comment-reply-title {
+	font-size: 24px;
+	margin: 20px 0;
+}
+.section-subtitle {
+	color: #909399;
+	color: var(--paletteColor2);
+	font-size: 18px;
+	line-height: 1.5;
+	text-align: center;
+	margin-bottom: 40px;
+}
+.entry-subtitle {
+	font-size: 21px;
+	line-height: 1.5;
+	color: #909399;
+	color: var(--paletteColor2);
+	margin-bottom: 0;
+}
+.entry-content {
+	font-size: 18px;
+	word-wrap: break-word;
+}
+.entry-content > *:first-child {
+	margin-top: 0;
+}
+dfn,
+em,
+i {
+	font-style: italic;
+}
+b,
+strong {
+	font-weight: 700;
+}
+blockquote {
+	position: relative;
+	border: 0;
+	margin: 0 0 30px;
+	padding: 0 40px;
+	box-sizing: border-box;
+}
+blockquote p {
+	font-size: 21px;
+	font-weight: 400;
+	line-height: 1.5;
+}
+blockquote p:last-of-type {
+	margin-bottom: 0;
+}
+blockquote:before {
+	content: '\201C';
+	color: #e3e5e8;
+	color: var(--paletteColor3);
+	background: none;
+	font-size: 110px;
+	font-weight: 400;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	left: 0;
+	top: -40px;
+	line-height: 1.5;
+}
+blockquote cite {
+	display: inline-block;
+	margin-top: 10px;
+	color: #151519;
+	color: var(--paletteColor1);
+	font-size: 16px;
+	font-weight: 700;
+	font-style: normal;
+}
+address {
+	margin: 0 0 20px;
+}
+pre {
+	background: #f2f4f7;
+	background: var(--paletteColor4);
+	font-family: "Courier 10 Pitch", Courier, monospace;
+	font-size: 14px;
+	color: #000;
+	line-height: 1.5;
+	margin-bottom: 30px;
+	max-width: 100%;
+	overflow: auto;
+	padding: 20px;
+	border: 0;
+	border-radius: 8px;
+	box-sizing: border-box;
+}
+code,
+kbd,
+tt,
+var {
+	font-family: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+	font-size: 14px;
+}
+code {
+	display: inline-block;
+	padding: 1px 5px;
+	background-color: rgba(0,0,0,.05);
+	color: #000;
+}
+pre, code {
+	text-align: left;
+}
+code.filename {
+	padding: 0 5px;
+	border: 1px solid rgba(0,0,0,.1);
+	color: #d14;
+	background-color: rgba(0,0,0,.05);
+	border-radius: 2px;
+}
+pre code {
+	padding: 0;
+	border: 0;
+	background: transparent;
+}
+abbr,
+acronym {
+	border-bottom: 1px dotted rgba(0,0,0,.2);
+	cursor: help;
+}
+mark,
+ins {
+	text-decoration: none;
+}
+
+/*
+ * 05: Elements
+ */
+hr {
+	background-color: #e3e5e8;
+	background-color: var(--paletteColor3);
+	border: 0;
+	height: 1px;
+	margin: 30px 0;
+}
+hr.spacer {
+	background-color: transparent;
+	clear: both;
+	margin: 0;
+}
+ul,
+ol {
+	margin: 0 0 30px 0;
+	padding: 0 0 0 30px;
+}
+ul {
+	list-style: disc;
+}
+ol {
+	list-style: decimal;
+}
+li {
+	margin: 0 0 10px 30px;
+	padding: 0;
+}
+li > ul,
+li > ol {
+	margin-bottom: 0;
+	margin-left: 30px;
+}
+dt {
+	font-weight: bold;
+}
+dd {
+	margin: 0 20px 20px;
+}
+img {
+	max-width: 100%;
+	height: auto;
+}
+table {
+	margin: 0 0 30px;
+	width: 100%;
+}
+.red {
+	color: #f73f2e;
+}
+code.php,
+code.html,
+code.css,
+.wp-block-code.php code,
+.wp-block-code.html code,
+.wp-block-code.css code {
+	display: block;
+	margin: 0;
+	padding: 10px;
+	border: 0;
+	font-family: Monaco, "Consolas", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;
+	border-radius: 0;
+	border: 0;
+	font-size: 14px;
+}
+pre.php,
+pre.html,
+pre.css {
+	position: relative;
+}
+pre.php:before,
+pre.html:before,
+pre.css:before {
+	font-family: sans-serif;
+	z-index: 10;
+	position: absolute;
+	top: 20px;
+	right: 20px;
+	font-size: 14px;
+	font-weight: 400;
+	background-color: rgba(0,0,0,.2);
+	padding: 3px 6px;
+	border-radius: 3px;
+	letter-spacing: .5px;
+	color: #fff;
+}
+pre.php:before {
+	content: 'PHP';
+}
+pre.html:before {
+	content: 'HTML';
+}
+pre.css:before {
+	content: 'CSS';
+}
+embed,
+iframe,
+object {
+	max-width: 100%;
+}
+.blog-demo-content {
+	margin-top: 30px;
+	margin-bottom: 30px;
+	background-color: #fff;
+	padding: 30px;
+	box-sizing: border-box;
+}
+
+/* Links */
+a {
+	color: #14CCB4;
+	color: var(--paletteColor5);
+	text-decoration: none;
+	transition: color 0.1s ease-in-out;
+}
+a:hover,
+a:active {
+	color: #14CCB4;
+	color: var(--paletteColor5);
+	text-decoration: underline;
+	outline: 0;
+}
+a:focus {
+	outline: 0;
+	text-decoration: underline;
+}
+.entry-title a {
+	color: #151519;
+	color: var(--paletteColor1);
+}
+.entry-title a:hover {
+	text-decoration: none;
+	color: #14CCB4;
+	color: var(--paletteColor5);
+}
+.posted-on a,
+.author a {
+	color: #909399;
+	color: var(--paletteColor2);
+}
+.posted-on + .byline .author {
+	position: relative;
+	padding-left: 28px;
+	margin-left: 8px;
+}
+.posted-on + .byline .author:before {
+	content: "";
+	width: 20px;
+	height: 1px;
+	border-bottom: 1px solid var(--paletteColor3);
+	position: absolute;
+	left: 0;
+	top: 9px;
+}
+
+/* Buttons */
+.button,
+.download-link,
+.preview-link,
+.view-demo,
+.download {
+	display: inline-block;
+	padding: 10px 30px;
+	background-color: #14CCB4;
+	background-color: var(--paletteColor5);
+	color: #fff;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 24px;
+	text-transform: capitalize;
+	border: none;
+	border-radius: 4px;
+	text-shadow: none;
+	vertical-align: middle;
+	cursor: pointer;
+	box-shadow: 0 4px 16px -2px rgba(0,0,0,.08);
+	transform: translateY(0);
+	transition: transform .2s ease;
+}
+.button {
+	text-align: center;
+}
+.download-link,
+.preview-link,
+.view-demo,
+.download {
+	margin: 0 10px 10px 0;
+}
+.button.large {
+	position: relative;
+	font-size: 18px;
+	padding: 16px 32px;
+}
+.button:hover,
+.button:active,
+.download-link:hover,
+.download-link:active,
+.preview-link:hover,
+.preview-link:active,
+.download:hover,
+.download:active,
+.view-demo:hover,
+.view-demo:active {
+	transform: translateY(-4px);
+	box-shadow: 0 8px 32px -4px rgba(0,0,0,.16);
+	color: #fff;
+	text-decoration: none;
+}
+.view-demo.grey {
+	color: #151519;
+	color: var(--paletteColor1);
+	background-color: #f2f4f7;
+	background-color: var(--paletteColor4);
+}
+.view-demo.grey:hover {
+	color: #151519;
+	color: var(--paletteColor1);
+	background-color: #e3e5e8;
+	background-color: var(--paletteColor3);
+}
+
+/* Icons */
+.dl-icon {
+	line-height: 1;
+	display: inline-block;
+	font-size: 16px;
+}
+.dl-icon svg {
+	display: inline-block;
+	width: 18px;
+	height: 18px;
+	vertical-align: bottom;
+	stroke: currentColor;
+	stroke-width: 2;
+	stroke-linecap: round;
+	stroke-linejoin: round;
+	fill: none;
+}
+.social-icon svg {
+	stroke: none;
+	fill: currentColor;
+}
+
+/* Social Share */
+.social-share {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	flex-direction: row;
+	-ms-flex-wrap: nowrap;
+	flex-wrap: nowrap;
+	align-items: center;
+	justify-content: center;
+	margin: 30px auto;
+	line-height: 1;
+}
+.social-share a {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	flex-flow: row nowrap;
+	align-items: center;
+	margin: 0 0.5rem 0.5rem 0;
+	padding: 0.5rem 1rem;
+	border: 1px solid var(--paletteColor3);
+	border-radius: 4px;
+	color: #909399;
+	color: var(--paletteColor2);
+}
+.social-share svg {
+	width: 18px;
+	height: 18px;
+	stroke: none;
+	fill: currentColor;
+}
+.social-share a:hover {
+	text-decoration: none;
+	box-shadow: 0 2px 8px -1px rgba(0,0,0,0.16);
+}
+.social-share .facebook-link {
+	color: #3B5998;
+}
+.social-share .twitter-link {
+	color: #00aced;
+}
+.social-share .pinterest-link {
+	color: #c92619;
+}
+.social-share .linkedin-link {
+	color: #007bb6;
+}
+.social-share .whatsapp-link {
+	color: #25d366;
+}
+.social-share .social-label {
+	display: none;
+	font-size: 0.75rem;
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
+	color: #9d9e9e;
+}
+.social-share a:hover .social-label {
+	color: #2c2d2e;
+}
+
+/* Fade In */
+img[loading="lazy"],
+.fadeIn {
+	animation: img-FadeIn 2.5s;
+}
+@keyframes img-FadeIn {
+	from	{ opacity: 0; }
+	to		{ opacity: 1; }
+}
+
+/* Alignments */
+.alignleft {
+	display: inline;
+	float: left;
+	margin-right: 1.5em;
+}
+.alignright {
+	display: inline;
+	float: right;
+	margin-left: 1.5em;
+}
+.aligncenter {
+	clear: both;
+	margin-left: auto;
+	margin-right: auto;
+}
+.aligncenter,
+.aligncenter img {
+	display: block;
+}
+
+/* Clearings */
+.clear:before,
+.clear:after,
+.entry-content:before,
+.entry-content:after,
+.comment-content:before,
+.comment-content:after {
+	content: "";
+	display: table;
+	table-layout: fixed;
+}
+.clear:after,
+.entry-content:after,
+.comment-content:after {
+	clear: both;
+}
+
+/* Text meant only for screen readers. */
+.screen-reader-text {
+	clip: rect(1px, 1px, 1px, 1px);
+	height: 1px;
+	overflow: hidden;
+	position: absolute !important;
+	width: 1px;
+	word-wrap: normal !important;
+}
+.screen-reader-text:focus {
+	background-color: #f5f5f5;
+	border-radius: 2px;
+	box-shadow: 0 0 2px 2px rgba(0,0,0,.4);
+	clip: auto !important;
+	color: #000;
+	display: block;
+	font-size: 14px;
+	font-weight: 600;
+	height: auto;
+	left: 5px;
+	line-height: normal;
+	padding: 15px 23px 14px;
+	text-decoration: none;
+	top: 5px;
+	width: auto;
+	z-index: 100000; /* Above WP toolbar. */
+}
+
+/* Do not show the outline on the skip link target. */
+#content[tabindex="-1"]:focus {
+	outline: 0;
+}
+
+/*
+ * 06: Header
+ */
+.site-header {
+	position: relative;
+	width: 100%;
+	background-color: #fff;
+}
+.transparent-header .site-header {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	box-shadow: none;
+	background-color: transparent;
+}
+.transparent-header .site-logo,
+.transparent-header .shopping-cart {
+	z-index: 10;
+}
+.transparent-header .site-logo a,
+.transparent-header .shopping-cart a,
+.transparent-header .menu-toggle,
+.transparent-header .menu-toggle:hover,
+.transparent-header .menu-toggle:focus {
+	color: #fff;
+}
+.transparent-header .shopping-cart a {
+	border-right-color: rgba(255,255,255,.3);
+}
+.transparent-header.admin-bar:not(.mobile-overlay-open) .site-header {
+	top: 32px;
+}
+.transparent-header.header-has-notice.admin-bar:not(.mobile-overlay-open) .site-header {
+	top: 82px;
+}
+@media screen and (max-width: 782px) {
+	.transparent-header.admin-bar:not(.mobile-overlay-open) .site-header {
+		top: 46px;
+	}
+	.transparent-header.header-has-notice.admin-bar:not(.mobile-overlay-open) .site-header {
+		top: 96px;
+	}
+}
+.header-container {
+	display: flex;
+	align-items: center;
+	width: 100%;
+	min-height: 80px;
+	box-sizing: border-box;
+}
+.header-column {
+	display: flex;
+	align-items: center;
+}
+.header-column:nth-child(2) {
+	flex: 1 0 0;
+	z-index: 99;
+}
+.header-column:nth-child(3) {
+	justify-content: flex-end;
+}
+.site-logo {
+	width: 160px;
+	margin: 0;
+	padding: 0;
+}
+.site-logo a {
+	display: block;
+	padding: 5px 0;
+	color: #151519;
+	color: var(--paletteColor1);
+	opacity: 1;
+	transition: opacity .3s ease;
+}
+.site-logo a:hover {
+	opacity: .6;
+}
+.site-logo svg {
+	display: block;
+	fill: currentColor;
+}
+.shopping-cart {
+	height: 30px;
+	margin: 0 15px 0 0;
+}
+.shopping-cart a {
+	display: block;
+	position: relative;
+	padding: 0 15px;
+	border-right: 1px solid rgba(0,0,0,0.05);
+	text-align: center;
+	line-height: 30px;
+	text-decoration: none;
+	color: #151919;
+}
+.edd-checkout .edd-cart-quantity {
+	position: absolute;
+	display: block;
+	right: -8px;
+	top: -4px;
+	width: 16px;
+	height: 16px;
+	font-size: 12px;
+	line-height: 16px;
+	font-weight: 700;
+	text-align: center;
+	background-color: #f73f2e !important;
+	color: #fff;
+	border-radius: 16px;
+}
+.shopping-cart .edd-checkout .edd-cart-quantity {
+	right: 10px;
+	top: 0;
+}
+.edd-checkout:hover .edd-cart-quantity {
+	background-color: #14CCB4;
+	background-color: var(--paletteColor5);
+}
+.edd-discount {
+	display: inline-block;
+	padding: 0 5px;
+	background-color: #f73f2e;
+	color: #fff;
+	font-size: 12px;
+	text-transform: uppercase;
+	font-weight: 700;
+	border-radius: 2px;
+	text-shadow: 0 1px 1px rgba(0,0,0,0.1);
+}
+.header-menu > li.sign-up > a {
+	background-color: #151519;
+	border-radius: 30px;
+	color: #fff;
+	height: 34px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.header-menu > li.sign-up > a:hover {
+	color: #fff;
+}
+#edd_sl_license_keys .edd_sl_item_name {
+	color: #151519;
+	color: var(--paletteColor1);
+	font-weight: 700;
+}
+#edd_sl_license_keys input.edd_sl_license_key {
+	font-family: "Courier 10 Pitch", Courier, monospace;
+	font-size: 14px;
+}
+
+/* Header Notice */
+.header-notice {
+	display: none;
+}
+.header-has-notice .header-notice {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 50px;
+	line-height: 40px;
+	padding: 5px 10px;
+}
+.header-notice {
+	background-color: #151519;
+	background-color: var(--paletteColor1);
+	color: #fff;
+	text-align: center;
+	font-size: 16px;
+	box-sizing: border-box;
+}
+.page-template-fullwidth.header-has-notice .site-header {
+	top: 50px;
+}
+.header-notice a,
+.header-notice a:hover {
+	color: #fff;
+	text-decoration: underline;
+}
+.header-notice-title {
+	display: none;
+}
+.coupon-code {
+	display: inline-block;
+	padding: 3px 6px;
+	background-color: #151519;
+	background-color: var(--paletteColor1);
+	border-radius: 2px;
+	font-weight: 700;
+	border: 1px dashed rgba(255,255,255,.8);
+	background-color: rgba(255,255,255,.2);
+	font-size: 14px;
+	line-height: 16px;
+	margin-left: 0.25em;
+	letter-spacing: 1px;
+}
+.header-notice-content,
+.header-notice-date {
+	padding-left: 1em;
+}
+.header-notice-date {
+	display: none;
+}
+
+/* Main Navigation */
+.header-navigation {
+	display: none;
+}
+.header-menu {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.header-menu li {
+	position: relative;
+	display: block;
+	padding: 10px 20px;
+	margin: 0;
+	line-height: 30px;
+}
+.header-menu a {
+	display: inline-block;
+	text-decoration: none;
+	color: #fff;
+}
+.header-menu > li {
+	border-bottom: 1px solid rgba(255,255,255,.08);
+}
+.header-menu > li:last-child {
+	border: 0;
+}
+.header-menu ul {
+	display: none;
+	font-size: 16px;
+	margin: 0;
+	padding: 5px 0;
+}
+.header-menu ul li {
+	line-height: 1.4;
+}
+
+/* Mobile Navigation */
+.mobile-overlay {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	opacity: 0;
+	visibility: hidden;
+	color: #fff;
+	background-color: transparent;
+	transition: opacity 0.3s ease-in-out, visibility 0.3s ease-in-out;
+	z-index: -10;
+}
+.mobile-overlay-content {
+	padding: 80px 20px 40px;
+}
+.mobile-navigation ul {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-align: left;
+}
+.mobile-navigation ul li {
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	width: 100%;
+	padding: 10px 0;
+	margin: 0;
+	line-height: 1.5;
+	box-sizing: border-box;
+}
+.mobile-navigation ul li a {
+	color: #fff;
+	text-decoration: none;
+	font-size: 16px;
+	font-weight: 400;
+	text-align: left;
+}
+.mobile-navigation > ul > li > a {
+	font-size: 18px;
+	text-transform: uppercase;
+	letter-spacing: 0.5px;
+}
+.mobile-navigation .sub-menu {
+	display: none;
+	padding-left: 20px;
+}
+.menu-toggle {
+	display: block;
+	position: relative;
+	background-color: transparent;
+	background-image: none;
+	border: 0;
+	width: 26px;
+	height: 26px;
+	padding: 0;
+	color: #151519;
+	color: var(--paletteColor1);
+	border-radius: 0;
+	box-shadow: none;
+	z-index: 99;
+	transition: top .3s ease-out .1s, opacity .2s ease-out .2s;
+}
+.menu-toggle:before,
+.menu-toggle:after {
+	position: absolute;
+	content: '';
+	height: 2px;
+	width: 100%;
+	border-radius: 2px;
+	display: block;
+	background-color: currentColor;
+}
+.menu-toggle:before,
+.menu-toggle:after {
+	transform: rotate(0deg);
+	transform-origin: center center;
+	transition: transform .3s ease-in-out, top .3s ease-in-out .3s;
+}
+.menu-toggle:before {
+	top: 8px;
+}
+.menu-toggle:after {
+	top: 16px;
+}
+.menu-toggle:hover,
+.menu-toggle:focus {
+	background-color: transparent;
+	outline: 0;
+	border: 0;
+	color: #151519;
+	color: var(--paletteColor1);
+}
+.dropdown-toggle {
+	height: 40px;
+	width: 40px;
+	padding: 0;
+	margin: 0;
+	text-transform: none;
+	background-color: transparent;
+	color: #fff;
+	border: 0;
+	border-radius: 0;
+}
+.dropdown-toggle:hover,
+.dropdown-toggle:focus,
+.dropdown-toggle:active {
+	background-color: transparent;
+}
+.dropdown-toggle:before {
+	content: "";
+	display: inline-block;
+	width: 0;
+	height: 0;
+	border-left: 4px solid transparent;
+	border-right: 4px solid transparent;
+	border-top: 4px dashed;
+	margin-left: 2px;
+	vertical-align: middle;
+}
+body.mobile-overlay-open {
+	position: absolute;
+	width: 100%;
+	max-height: 100%;
+	overflow: hidden;
+	-webkit-overflow-scrolling: touch;
+}
+body.mobile-overlay-open #wpadminbar {
+	display: none;
+}
+body.mobile-overlay-open .mobile-overlay {
+	opacity: 1;
+	visibility: visible;
+	background-color: #151519;
+	background-color: var(--paletteColor1);
+	z-index: 98;
+}
+body.mobile-overlay-open .site-logo a {
+	color: #fff;
+}
+body.mobile-overlay-open .menu-toggle {
+	color: #fff;
+}
+body.mobile-overlay-open .menu-toggle:before,
+body.mobile-overlay-open .menu-toggle:after {
+	transition: top .3s ease-in-out, transform .3s ease-in-out .3s;
+}
+body.mobile-overlay-open .menu-toggle:before {
+	transform: rotate(-135deg);
+	top: 12px;
+}
+body.mobile-overlay-open .menu-toggle:after {
+	transform: rotate(135deg);
+	top: 12px;
+}
+body.mobile-overlay-open .mobile-menu > li {
+	animation: hamburgerMenu 0.25s 0.7s cubic-bezier(0.28, 0.12, 0.22, 1);
+	animation-fill-mode: both;
+}
+body.mobile-overlay-open .mobile-navigation > ul:nth-child(1) > li:nth-child(1) {
+	animation-delay: 0.2s;
+}
+body.mobile-overlay-open .mobile-navigation > ul:nth-child(1) > li:nth-child(2) {
+	animation-delay: 0.25s;
+}
+body.mobile-overlay-open .mobile-navigation > ul:nth-child(1) > li:nth-child(3) {
+	animation-delay: 0.3s;
+}
+body.mobile-overlay-open .mobile-navigation > ul:nth-child(2) > li:nth-child(1) {
+	animation-delay: 0.35s;
+}
+body.mobile-overlay-open .mobile-navigation > ul:nth-child(2) > li:nth-child(2) {
+	animation-delay: 0.40s;
+}
+body.mobile-overlay-open .mobile-navigation > ul:nth-child(2) > li:nth-child(3) {
+	animation-delay: 0.45s;
+}
+@keyframes hamburgerMenu {
+	0% {
+		opacity: 0;
+		transform: translateY(20%);
+	}
+
+	100% {
+		opacity: 1;
+		transform: none;
+	}
+}
+.mobile-navigation li.is-open > .sub-menu {
+	display: flex;
+}
+
+/* Site Navigation */
+.comment-navigation,
+.posts-navigation,
+.post-navigation {
+	margin: 30px auto;
+	overflow: hidden;
+}
+
+.comment-navigation .nav-previous,
+.posts-navigation .nav-previous,
+.post-navigation .nav-previous {
+	float: left;
+	width: 50%;
+}
+
+.comment-navigation .nav-next,
+.posts-navigation .nav-next,
+.post-navigation .nav-next {
+	float: right;
+	text-align: right;
+	width: 50%;
+}
+
+.post-navigation {
+	padding: 20px 0;
+	border-top: 1px solid var(--paletteColor4);
+}
+
+.post-navigation a {
+	color: #909399;
+	color: var(--paletteColor2);
+	font-size: 18px;
+}
+
+.post-navigation a:hover {
+	color: #14CCB4;
+	color: var(--paletteColor5);
+	text-decoration: none;
+}
+
+/*
+ * 07: Content
+ */
+
+/* Posts Loop */
+.posts-loop {
+	margin: 30px 0;
+}
+.posts-loop {
+	display: grid;
+	grid-template-columns: 100%;
+	justify-content: center;
+	width: 100%;
+	grid-gap: 30px 0;
+}
+.posts-loop .hentry {
+	margin: 0;
+	padding-bottom: 20px;
+	background-color: #fff;
+	box-shadow: 0 8px 32px -4px rgba(0,0,0,.08);
+	box-sizing: border-box;
+	border-radius: 0 0 8px 8px;
+}
+.posts-loop .hentry:hover {
+	box-shadow: 0 16px 64px -8px rgba(0,0,0,.16);
+}
+.posts-loop .entry-header,
+.posts-loop .entry-summary,
+.posts-loop .entry-footer {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+.posts-loop .entry-summary {
+	margin-top: 10px;
+}
+.posts-loop .entry-summary p:last-child {
+	margin-bottom: 0;
+}
+.posts-loop .entry-thumbnail {
+	margin: 0;
+	max-height: 380px;
+	overflow: hidden;
+	border-radius: 8px 8px 0 0
+}
+.posts-loop .entry-thumbnail img {
+	display: block;
+	max-width: 100%;
+	height: auto;
+}
+.read-more {
+	display: inline-block;
+	padding: 8px 20px;
+	font-size: 14px;
+	font-weight: 700;
+	text-transform: uppercase;
+	line-height: 1.2;
+	text-decoration: none;
+	border: 1px solid var(--paletteColor1);
+	border-radius: 4px;
+}
+.read-more:hover {
+	text-decoration: none;
+	color: #fff;
+	background-color: var(--paletteColor1);
+}
+
+/* Post Meta */
+.entry-meta,
+.entry-footer {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 14px;
+	text-align: center;
+	line-height: 1.5;
+	color: #909399;
+	color: var(--paletteColor2);
+}
+.entry-footer {
+	flex-direction: column;
+}
+.entry-footer > span {
+	display: flex;
+	align-items: center;
+}
+.cat-links a,
+.tags-links a {
+	display: inline-block;
+	margin: 0 5px;
+	color: #14CCB4;
+	color: var(--paletteColor5);
+	transition: background-color 0.3s ease, color 0.3s ease;
+}
+.cat-links a {
+	padding: 4px 16px;
+	background-color: #14CCB4;
+	background-color: var(--paletteColor5);
+	color: #fff;
+	border-radius: 30px;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 20px;
+}
+.cat-links a:hover {
+	text-decoration: none;
+	background-color: #0ABFA8;
+	background-color: var(--paletteColor6);
+	color: #fff;
+}
+.tags-links,
+.edit-link {
+	margin-left: 10px;
+}
+.edit-link a {
+	color: #151519;
+	color: var(--paletteColor1);
+	text-decoration: underline;
+}
+.entry-header .cat-links {
+	margin: 20px auto 10px;
+	font-size: 14px;
+	text-align: center;
+	color: #909399;
+	color: var(--paletteColor2);
+}
+.entry-header .cat-links a {
+	color: #14CCB4;
+	color: var(--paletteColor5);
+	background-color: transparent;
+}
+.entry-header .cat-links a:hover {
+	text-decoration: underline;
+	background-color: transparent;
+}
+.entry-header .cat-links + h2 {
+	margin-top: 10px;
+}
+.entry-header .cat-links a {
+	padding: 0;
+	border: 0;
+}
+.entry-meta .author {
+	padding-left: 0.5rem;
+}
+.byline,
+.updated:not(.published) {
+	display: none;
+}
+
+/* Posts and Pages */
+.singular .entry-header {
+	margin: 30px 0;
+	padding: 0;
+}
+.singular .entry-footer {
+	margin-top: 30px;
+	padding-bottom: 30px;
+	border-bottom: 1px solid var(--paletteColor3);
+}
+.singular .entry-meta,
+.singular .entry-footer {
+	font-size: 16px;
+}
+.singular .entry-thumbnail {
+	margin: auto;
+	max-width: 100%;
+}
+.singular .entry-thumbnail img {
+	display: block;
+}
+.singular .byline {
+	display: inline;
+}
+.sticky {
+	display: block;
+}
+.page-links {
+	clear: both;
+	margin: 0 0 1.5em;
+}
+.entry-cover-image {
+	position: relative;
+	margin: 0 -6vw 30px;
+}
+.entry-featured-image {
+	background-position: center center;
+	background-size: cover;
+	width: 100%;
+	height: auto;
+	min-height: 240px;
+	margin: 0;
+	z-index: 1;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.img-thumbnail {
+	margin: 0 auto 30px;
+	padding: 20px;
+	background-color: #fff;
+	border: 0;
+	border-radius: 8px;
+	box-shadow: 0 8px 32px -4px rgba(0,0,0,.08);
+}
+.img-thumbnail img {
+	display: block;
+	margin: auto;
+}
+.item {
+	padding: 20px;
+	margin: 30px auto;
+	border-radius: 4px;
+	background-color: #f2f4f7;
+	background-color: var(--paletteColor4);
+}
+.item p:last-child {
+	margin-bottom: 0;
+}
+.item .button {
+	margin-top: 10px;
+}
+.ssba {
+	clear: both;
+}
+.theme-thumbnail {
+	display: block;
+	margin: 30px auto;
+	box-shadow: 0 8px 32px -4px rgba(0,0,0,.08);
+	border: 1px solid #e4e4e4;
+	border-radius: 4px;
+}
+.theme-thumbnail:before {
+	content: "\2022\2022\2022";
+	height: 24px;
+	border-bottom: 1px solid #e4e4e4;
+	width: 100%;
+	position: relative;
+	display: block;
+	color: #c4c4c4;
+	box-sizing: border-box;
+	padding: 0 10px;
+	line-height: 20px;
+	letter-spacing: 0.1rem;
+	font-size: 20px;
+	background-color: #f9f9f9;
+	border-radius: 4px 4px 0 0;
+}
+.theme-thumbnail img {
+	display: block;
+	border-radius: 4px;
+}
+.theme-preview {
+	display: inline-block;
+	padding: 10px 7px 5px;
+	margin: 0 0 0 10px;
+	color: #151519;
+	color: var(--paletteColor1);
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 22px;
+	border-bottom: 1px solid var(--paletteColor1);
+	vertical-align: middle;
+	cursor: pointer;
+	transition: all .25s ease-in-out;
+}
+.theme-preview:hover {
+	text-decoration: none;
+	color: #14CCB4;
+	color: var(--paletteColor5);
+	border-bottom-color: #14CCB4;
+	border-bottom-color: var(--paletteColor5);
+}
+
+/* Pagination */
+.pagination {
+	text-align: center;
+	margin: 30px auto;
+}
+.pagination .nav-links {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	clear: both;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+.pagination .nav-links a,
+.pagination .nav-links span {
+	display: inline-block;
+	width: 40px;
+	height: 40px;
+	margin: 0 0.5em;
+	padding: 0 0.25em;
+	text-align: center;
+	font-size: 16px;
+	line-height: 40px;
+	color: #151519;
+	color: var(--paletteColor1);
+	font-weight: 400;
+	background-color: transparent;
+	border: 0;
+	border-radius: 4px;
+	transition: background-color .2s ease;
+	box-sizing: border-box;
+}
+.pagination .nav-links .current,
+.pagination .nav-links .current:hover,
+.pagination .nav-links a:hover {
+	text-decoration: none;
+	color: #fff;
+	background-color: #14CCB4;
+	background-color: var(--paletteColor5);
+}
+
+/* Breadcrumbs */
+.breadcrumbs {
+	margin: 0 auto 20px;
+	font-size: 14px;
+	text-align: center;
+	color: #909399;
+	color: var(--paletteColor2);
+	line-height: 1.5;
+}
+.breadcrumbs span a,
+.breadcrumbs span.breadcrumb_last {
+	padding: 0 0.25em;
+}
+.breadcrumbs > span > span > a {
+	padding-left: 0;
+}
+
+/* Documentation List */
+.doc-index {
+	list-style-type: none;
+	margin: 0 0 30px 20px;
+	padding: 0;
+}
+.doc-index li {
+	position: relative;
+	padding: 0 0 0 15px;
+	margin: 0 0 10px;
+}
+.doc-index li:before {
+	content: "";
+	position: absolute;
+	left: 0;
+	top: 12px;
+	background-color: #14CCB4;
+	background-color: var(--paletteColor5);
+	width: 5px;
+	height: 5px;
+}
+.doc-index li a {
+	color: #151519;
+	color: var(--paletteColor1);
+	transition: color 0.3s ease-in-out 0;
+}
+.doc-index li a:hover {
+	color: #14CCB4;
+	color: var(--paletteColor5);
+	text-decoration: none;
+}
+
+/* Archives */
+.page-header {
+	margin: 30px 0;
+	padding: 0;
+}
+.archive-description {
+	max-width: var(--xs-max-width);
+	margin: auto;
+	font-size: 21px;
+	line-height: 1.5;
+	text-align: center;
+	color: #909399;
+	color: var(--paletteColor2);
+}
+
+/* Widgets */
+.widget {
+	margin: 0 0 30px;
+	text-align: center;
+}
+.widget-title {
+	margin: 0 auto 10px;
+	color: #fff;
+	font-size: 16px;
+}
+.widget ul {
+	margin: 0;
+	padding: 0;
+}
+.widget ul li {
+	display: block;
+	padding: 0;
+	margin: 0 0 10px 0;
+}
+.widget select {
+	max-width: 100%;
+}
+.widget ul > li:last-child,
+.widget .textwidget > *:last-child {
+	margin-bottom: 0;
+}
+
+/* Media */
+.page-content .wp-smiley,
+.entry-content .wp-smiley,
+.comment-content .wp-smiley {
+	border: none;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 0;
+}
+iframe.css-demo {
+	background-color: #fff;
+	border: 1px solid #e1e1e5;
+	padding: 10px;
+	box-sizing: border-box;
+}
+
+/* Captions */
+.wp-caption {
+	margin-bottom: 1.5em;
+	max-width: 100%;
+}
+.wp-caption img[class*="wp-image-"] {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.wp-caption .wp-caption-text {
+	margin: 0.8075em 0;
+}
+.wp-caption-text {
+	text-align: center;
+}
+
+/* Galleries */
+.gallery {
+	margin-bottom: 1.5em;
+}
+.gallery-item {
+	display: inline-block;
+	width: 100%;
+	margin: 0 auto 20px;
+	padding: 0 10px;
+	text-align: center;
+	vertical-align: top;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.gallery-columns-2 .gallery-item {
+	max-width: 50%;
+}
+.gallery-columns-3 .gallery-item {
+	max-width: 33.33%;
+}
+.gallery-columns-4 .gallery-item {
+	max-width: 25%;
+}
+.gallery-columns-5 .gallery-item {
+	max-width: 20%;
+}
+.gallery-columns-6 .gallery-item {
+	max-width: 16.66%;
+}
+.gallery-columns-7 .gallery-item {
+	max-width: 14.28%;
+}
+.gallery-columns-8 .gallery-item {
+	max-width: 12.5%;
+}
+.gallery-columns-9 .gallery-item {
+	max-width: 11.11%;
+}
+.gallery-caption {
+	display: block;
+}
+.gallery-columns-2 .gallery-item:nth-child(2n+1) {
+	clear: left;
+}
+.gallery-columns-3 .gallery-item:nth-child(3n+1) {
+	clear: left;
+}
+
+/* Comments */
+.comment-content a {
+	word-wrap: break-word;
+}
+.bypostauthor {
+	display: block;
+}
+.comments-area {
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.comment-list {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+.comment-list li {
+	display: block;
+	margin: 0 auto 20px;
+}
+.comment-form label {
+	display: block;
+	font-size: 18px;
+	font-weight: 700;
+	margin-bottom: 5px;
+}
+.comment-form-comment {
+	margin-bottom: 10px;
+}
+label#captcha_code_label {
+	display: inline-block;
+}
+
+/* Review */
+.wp-rating {
+	display: inline-block;
+	text-align: left;
+	width: 90px;
+	height: 18px;
+	line-height: 18px;
+	background: url('data:image/svg+xml,%3Csvg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 32" style="fill-rule:evenodd;clip-rule:evenodd;fill:%23D9DCE2;stroke:%23D9DCE2;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;"%3E%3Cpolygon points="16,3 20.3,11.8 30,13.2 23,20 24.7,29.6 16,25.1 7.3,29.6 9,20 2,13.2 11.7,11.8 "/%3E%3Cpolygon points="48,3 52.3,11.8 62,13.2 55,20 56.7,29.6 48,25.1 39.3,29.6 41,20 34,13.2 43.7,11.8 "/%3E%3Cpolygon points="80,3 84.3,11.8 94,13.2 87,20 88.7,29.6 80,25.1 71.3,29.6 73,20 66,13.2 75.7,11.8 "/%3E%3Cpolygon points="112,3 116.3,11.8 126,13.2 119,20 120.7,29.6 112,25.1 103.3,29.6 105,20 98,13.2 107.7,11.8 "/%3E%3Cpolygon points="144,3 148.3,11.8 158,13.2 151,20 152.7,29.6 144,25.1 135.3,29.6 137,20 130,13.2 139.7,11.8 "/%3E%3C/svg%3E') 0 0 no-repeat;
+}
+.wp-rating span {
+	display: inline-block;
+	background: url('data:image/svg+xml,%3Csvg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 32" style="fill-rule:evenodd;clip-rule:evenodd;fill:%23FFD966;stroke:%23FFD966;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;"%3E%3Cpolygon points="16,3 20.3,11.8 30,13.2 23,20 24.7,29.6 16,25.1 7.3,29.6 9,20 2,13.2 11.7,11.8 "/%3E%3Cpolygon points="48,3 52.3,11.8 62,13.2 55,20 56.7,29.6 48,25.1 39.3,29.6 41,20 34,13.2 43.7,11.8 "/%3E%3Cpolygon points="80,3 84.3,11.8 94,13.2 87,20 88.7,29.6 80,25.1 71.3,29.6 73,20 66,13.2 75.7,11.8 "/%3E%3Cpolygon points="112,3 116.3,11.8 126,13.2 119,20 120.7,29.6 112,25.1 103.3,29.6 105,20 98,13.2 107.7,11.8 "/%3E%3Cpolygon points="144,3 148.3,11.8 158,13.2 151,20 152.7,29.6 144,25.1 135.3,29.6 137,20 130,13.2 139.7,11.8 "/%3E%3C/svg%3E') 0 0 no-repeat;
+	text-indent: -999em;
+}
+.wp-rating .rate-1 {
+	width: 10%;
+}
+.wp-rating .rate-2 {
+	width: 20%;
+}
+.wp-rating .rate-3 {
+	width: 30%;
+}
+.wp-rating .rate-4 {
+	width: 40%;
+}
+.wp-rating .rate-5 {
+	width: 50%;
+}
+.wp-rating .rate-6 {
+	width: 60%;
+}
+.wp-rating .rate-7 {
+	width: 70%;
+}
+.wp-rating .rate-8 {
+	width: 80%;
+}
+.wp-rating .rate-9 {
+	width: 90%;
+}
+.wp-rating .rate-10 {
+	width: 100%;
+}
+
+/* Step List */
+.steps {
+	margin: 20px auto;
+	padding: 0;
+}
+.steps dt {
+	float: left;
+	display: inline-block;
+	width: 26px;
+	height: 26px;
+	font-weight: 700;
+	text-align: center;
+	padding: 4px;
+	margin-bottom: 10px;
+	font-size: 16px;
+	line-height: 18px;
+	border-radius: 48px;
+	background-color: #14CCB4;
+	background-color: var(--paletteColor5);
+	color: #fff;
+	vertical-align: baseline;
+	white-space: nowrap;
+	box-sizing: border-box;
+}
+.steps dd {
+	margin: 0 0 10px 40px;
+}
+.steps h4 {
+	clear: none;
+	margin: 0 0 10px;
+}
+.step-list {
+	position: relative;
+	padding-left: 40px;
+	box-sizing: border-box;
+}
+.step-list-heading {
+	margin-top: 0;
+	margin-bottom: 10px;
+}
+.step-list span {
+	position: absolute;
+	left: 0;
+	top: 2px;
+	display: inline-flex;
+	width: 26px;
+	height: 26px;
+	font-weight: 700;
+	text-align: center;
+	align-items: center;
+	justify-content: center;
+	padding: 4px;
+	font-size: 16px;
+	line-height: 18px;
+	border-radius: 48px;
+	background-color: #14CCB4;
+	background-color: var(--paletteColor5);
+	color: #fff;
+	box-sizing: border-box;
+}
+.step-list-heading span {
+	top: 50%;
+	transform: translateY(-50%);
+}
+.step-list-image img {
+	padding-left: 40px;
+}
+.notice {
+	padding: 15px;
+}
+.notice.warning {
+	background: #fcf8e3;
+	border: 1px solid #fbeee0;
+}
+.notice.info {
+	background: #eff8ff;
+	border: 1px solid #c3def0;
+}
+.notice-info {
+	padding: 15px;
+	background: #eff8ff;
+	border: 1px solid #c3def0;
+}
+
+/*
+ * 08: Forms
+ */
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+	border: 0;
+	border-radius: 4px;
+	background-color: #14CCB4;
+	background-color: var(--paletteColor5);
+	color: #fff;
+	font-size: 16px;
+	font-weight: 600;
+	text-transform: capitalize;
+	line-height: 24px;
+	padding: 10px 30px;
+	transition: background-color .2s ease;
+	cursor: pointer;
+}
+button:hover,
+input[type="button"]:hover,
+input[type="reset"]:hover,
+input[type="submit"]:hover {
+	color: #fff;
+	background-color: #0ABFA8;
+	background-color: var(--paletteColor6);
+}
+button:focus,
+input[type="button"]:focus,
+input[type="reset"]:focus,
+input[type="submit"]:focus,
+button:active,
+input[type="button"]:active,
+input[type="reset"]:active,
+input[type="submit"]:active {
+	background-color: #0ABFA8;
+	background-color: var(--paletteColor6);
+	color: #fff;
+}
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+input[type="number"],
+input[type="tel"],
+input[type="range"],
+input[type="date"],
+input[type="month"],
+input[type="week"],
+input[type="time"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="color"],
+textarea {
+	color: #909399;
+	color: var(--paletteColor2);
+	padding: 5px 10px;
+	width: 100%;
+	border: 2px solid var(--paletteColor3);
+	border-radius: 4px;
+	box-sizing: border-box;
+}
+select {
+	border: 2px solid var(--paletteColor3);
+	padding: 8px 10px;
+	border-radius: 4px;
+}
+input[type="text"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="password"]:focus,
+input[type="search"]:focus,
+input[type="number"]:focus,
+input[type="tel"]:focus,
+input[type="range"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="week"]:focus,
+input[type="time"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="color"]:focus,
+textarea:focus {
+	color: #151519;
+	color: var(--paletteColor1);
+}
+textarea {
+	width: 100%;
+}
+
+/*
+ * 09: Footer
+ */
+.site-footer {
+	padding: 0;
+	background-color: #151519;
+	background-color: var(--paletteColor1);
+	color: rgba(255,255,255,0.7);
+	font-size: 14px;
+}
+.site-footer a {
+	color: rgba(255,255,255,0.7);
+}
+.site-footer a:hover {
+	color: #fff;
+}
+.site-footer .sep {
+	display: inline-block;
+	padding: 0 5px;
+}
+.footer-widgets {
+	display: grid;
+	width: 100%;
+	grid-template-columns: 1fr 1fr;
+	grid-template-columns: repeat(2,minmax(0,1fr));
+	grid-auto-flow: row;
+	grid-gap: 30px;
+	padding: 30px 0;
+}
+.footer-widgets .widget {
+	margin: 0;
+}
+.site-credits {
+	text-align: center;
+	margin: 0;
+}
+.footer-navigation {
+	line-height: 26px;
+	text-align: center;
+	margin: 20px auto 0;
+}
+.footer-navigation ul {
+	margin: 0;
+	padding: 0;
+}
+.footer-navigation li {
+	display: inline-block;
+	padding: 0 5px;
+}
+.footer-navigation a {
+	display: inline-block;
+}
+.footer-copy {
+	display: grid;
+	grid-template-columns: 100%;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	grid-gap: 20px 0;
+	padding: 20px 0;
+	margin: 0;
+	text-align: center;
+	border-top: 1px solid rgba(255,255,255,.08);
+}
+
+/* Social */
+.social-menu {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	display: flex;
+	align-items: center;
+}
+.social-menu li {
+	display: inline-block;
+	padding: 0;
+	margin: 0 0 0 4px;
+}
+.social-menu li:first-child {
+	margin-left: 0;
+}
+.site-footer .social-menu {
+	justify-content: center;
+}
+.site-footer .social-menu a {
+	position: relative;
+	display: inline-block;
+	vertical-align: middle;
+	width: 24px;
+	height: 24px;
+	line-height: 24px;
+	text-indent: -999em;
+}
+.site-footer .social-menu a:before {
+	content: "";
+	position: absolute;
+	left: 2px;
+	top: 2px;
+	width: 20px;
+	height: 20px;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 18px auto;
+	opacity: .75;
+}
+.site-footer .social-menu a[href*="twitter.com"]:before {
+	background-image: url('data:image/svg+xml,%3Csvg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"%3E%3Cpath fill="white" d="M16.4,6.7c0,0.1,0,0.3,0,0.4c0,4.3-3.3,9.3-9.3,9.3c-1.9,0-3.6-0.5-5-1.5c0.3,0,0.5,0,0.8,0 c1.5,0,2.9-0.5,4.1-1.4c-1.4,0-2.7-1-3.1-2.3c0.2,0,0.4,0.1,0.6,0.1c0.3,0,0.6,0,0.9-0.1C3.8,11,2.7,9.7,2.7,8.1v0 c0.4,0.2,0.9,0.4,1.5,0.4C3.2,7.9,2.7,6.9,2.7,5.8c0-0.6,0.2-1.2,0.4-1.7c1.6,2,4,3.3,6.8,3.4C9.8,7.3,9.8,7,9.8,6.8 c0-1.8,1.5-3.3,3.3-3.3c0.9,0,1.8,0.4,2.4,1c0.7-0.1,1.5-0.4,2.1-0.8c-0.2,0.8-0.8,1.4-1.4,1.8C16.8,5.5,17.4,5.3,18,5 C17.6,5.7,17,6.3,16.4,6.7L16.4,6.7z"/%3E%3C/svg%3E');
+}
+.site-footer .social-menu a[href*="instagram.com"]:before {
+	background-image: url('data:image/svg+xml,%3Csvg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"%3E%3Cpath fill="white" d="M10,5.9c-2.3,0-4.1,1.8-4.1,4.1s1.8,4.1,4.1,4.1s4.1-1.8,4.1-4.1S12.3,5.9,10,5.9z M10,12.7 c-1.5,0-2.7-1.2-2.7-2.7S8.5,7.3,10,7.3s2.7,1.2,2.7,2.7S11.5,12.7,10,12.7L10,12.7z M15.2,5.7c0,0.5-0.4,1-1,1c-0.5,0-1-0.4-1-1 s0.4-1,1-1S15.2,5.2,15.2,5.7z M17.9,6.7c-0.1-1.3-0.4-2.4-1.3-3.4c-0.9-0.9-2.1-1.2-3.4-1.3C12,2,8,2,6.7,2.1 C5.4,2.1,4.3,2.4,3.3,3.3S2.1,5.4,2.1,6.7C2,8,2,12,2.1,13.3c0.1,1.3,0.4,2.4,1.3,3.4s2.1,1.2,3.4,1.3C8,18,12,18,13.3,17.9 c1.3-0.1,2.4-0.4,3.4-1.3c0.9-0.9,1.2-2.1,1.3-3.4C18,12,18,8,17.9,6.7L17.9,6.7z M16.2,14.7c-0.3,0.7-0.8,1.2-1.5,1.5 c-1.1,0.4-3.6,0.3-4.7,0.3s-3.7,0.1-4.7-0.3C4.6,16,4,15.4,3.8,14.7c-0.4-1.1-0.3-3.6-0.3-4.7S3.4,6.3,3.8,5.3C4,4.6,4.6,4,5.3,3.8 C6.3,3.3,8.8,3.4,10,3.4s3.7-0.1,4.7,0.3C15.4,4,16,4.6,16.2,5.3c0.4,1.1,0.3,3.6,0.3,4.7S16.7,13.7,16.2,14.7z"/%3E%3C/svg%3E');
+}
+.site-footer .social-menu a[href*="wordpress.org"]:before {
+	background-image: url('data:image/svg+xml,%3Csvg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"%3E%3Cpath fill="white" d="M10,2c-4.4,0-8,3.6-8,8c0,4.4,3.6,8,8,8s8-3.6,8-8C18,5.6,14.4,2,10,2z M2.8,10c0-1,0.2-2,0.6-2.9l3.4,9.4 C4.5,15.3,2.8,12.8,2.8,10z M10,17.2c-0.7,0-1.4-0.1-2-0.3l2.2-6.3l2.2,6.1c0,0,0,0.1,0.1,0.1C11.6,17,10.8,17.2,10,17.2z M11,6.6 c0.4,0,0.8-0.1,0.8-0.1c0.4,0,0.3-0.6,0-0.6c0,0-1.2,0.1-1.9,0.1C9.1,6.1,8,6,8,6c-0.4,0-0.4,0.6,0,0.6c0,0,0.4,0,0.8,0.1l1.1,3.1 l-1.6,4.7L5.6,6.6c0.4,0,0.8-0.1,0.8-0.1c0.4,0,0.3-0.6,0-0.6c0,0-1.2,0.1-1.9,0.1c-0.1,0-0.3,0-0.5,0c1.3-1.9,3.5-3.2,6-3.2 c1.9,0,3.6,0.7,4.9,1.9c0,0-0.1,0-0.1,0c-0.7,0-1.2,0.6-1.2,1.3c0,0.6,0.3,1.1,0.7,1.7c0.3,0.5,0.6,1.1,0.6,2c0,0.6-0.2,1.3-0.5,2.3 l-0.7,2.4L11,6.6L11,6.6z M13.6,16.2l2.2-6.4c0.4-1,0.5-1.8,0.5-2.6c0-0.3,0-0.5,0-0.7c0.6,1,0.9,2.2,0.9,3.5 C17.2,12.7,15.8,15,13.6,16.2z"/%3E%3C/svg%3E');
+}
+
+/*
+ * 10: Page Styles
+ */
+.section {
+	padding: 30px 0;
+	background-color: #fff;
+}
+.grey,
+.section.grey,
+.section.light {
+	background-color: #f2f4f7;
+	background-color: var(--paletteColor4);
+}
+.headline {
+	padding-bottom: 20px;
+}
+.section-title {
+	position: relative;
+	margin: 0 auto 10px;
+	text-align: center;
+}
+.section h4 {
+	margin: 0 auto 10px;
+}
+.section p {
+	margin-top: 0;
+}
+.section.has-dark-background,
+.section.has-dark-background a,
+.section.has-dark-background .section-title,
+.section.has-dark-background .section-subtitle {
+	color: #fff;
+}
+.has-dark-background form a,
+.wp-block-cover form a,
+.has-dark-background form a:hover,
+.wp-block-cover form a:hover {
+	color: #fff;
+}
+.has-dark-background form label,
+.wp-block-cover form label {
+	color: #eee;
+}
+.has-dark-background form input[type="email"],
+.wp-block-cover form input[type="email"] {
+	border-color: #fff;
+}
+.section.has-background-image {
+	position: relative;
+	padding: 80px 0;
+}
+.section.has-background-image img {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	max-width: none;
+	max-height: none;
+	object-fit: cover;
+	outline: none;
+	border: none;
+	box-shadow: none;
+}
+.section.has-background-image .inner-section {
+	position: relative;
+	z-index: 2;
+}
+.section.has-background-image:before {
+	content: "";
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+	background-color: #000;
+	opacity: .5;
+	z-index: 1;
+}
+
+/* Testimonial */
+.testimonial {
+	padding-left: 50px;
+	padding-right: 0;
+}
+.testimonial cite {
+	position: relative;
+	height: 22px;
+	line-height: 22px;
+	padding-left: 120px;
+}
+.testimonial cite:before {
+	content: '';
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 110px;
+	height: 22px;
+	background-image: url("data:image/svg+xml;charset=utf-8,<svg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><polygon fill='%23FFC933' stroke='%23FFC933' stroke-linecap='round' stroke-linejoin='round' points='12,2.5 15.1,8.8 22,9.8 17,14.6 18.2,21.5 12,18.3 5.8,21.5 7,14.6 2,9.8 8.9,8.8 '/></svg>");
+	background-position: center center;
+	background-repeat: repeat-x;
+}
+.home-testimonials,
+.wp-block-columns .home-testimonials {
+	margin-bottom: 0;
+}
+
+/* Theme Hero */
+.theme-hero {
+	background-color: #fff;
+	padding-bottom: 0;
+	overflow: hidden;
+}
+.theme-hero h1 {
+	margin: 0 auto 20px;
+	text-align: center;
+}
+.theme-hero-container {
+	display: grid;
+	grid-template-columns: 100%;
+	justify-content: center;
+	width: 100%;
+	grid-gap: 30px 0;
+}
+.theme-info {
+	margin: 10px 0 0;
+	font-size: 18px;
+	text-align: center;
+}
+.theme-info h4,
+.theme-info-title {
+	font-size: 18px;
+	font-weight: 700;
+	line-height: 1.5;
+}
+.theme-action {
+	margin-bottom: 30px;
+	text-align: center;
+}
+.theme-action p {
+	margin: 0;
+	clear: both;
+}
+.theme-download,
+.theme-purchase {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.theme-hero .edd-submit,
+.theme-hero .preview-link,
+.theme-hero .download-link {
+	margin: 0 0 20px;
+}
+.theme-hero .preview-link {
+	background: transparent;
+	color: #151519;
+	color: var(--paletteColor1);
+	padding: 10px 7px 5px;
+	border-radius: 0;
+	border-bottom: 1px solid var(--paletteColor1);
+	margin-left: 10px;
+	box-shadow: none;
+	transition: color .2s ease;
+}
+.theme-hero .preview-link:hover {
+	background: transparent;
+	color: #14CCB4;
+	color: var(--paletteColor5);
+	border-bottom-color: #14CCB4;
+	border-bottom-color: var(--paletteColor5);
+	transform: translateY(0);
+}
+.purchase-details {
+	color: #909399;
+	color: var(--paletteColor2);
+	font-size: 16px;
+	line-height: 1.5;
+}
+.purchase-details ul {
+	margin: 10px 0 0;
+	padding: 0;
+	list-style-type:none;
+}
+.purchase-details li {
+	margin: 5px 0;
+	padding: 0;
+}
+.theme-screenshot {
+	position: relative;
+	box-sizing: border-box;
+}
+.screenshot-desktop,
+.screenshot-mobile {
+	background: #fff;
+	border-radius: 8px 8px 0 0;
+	box-shadow: 0 6px 30px rgba(0,0,0,0.08);
+	box-sizing: border-box;
+}
+.screenshot-desktop img,
+.screenshot-mobile img {
+	display: block;
+	margin: auto;
+	max-width: 100%;
+	height: auto;
+}
+.screenshot-desktop {
+	padding: 10px;
+}
+.screenshot-mobile {
+	display: none;
+}
+
+/* Theme Version */
+.theme-version {
+	padding: 20px 0;
+}
+.theme-version h4 {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: center;
+	letter-spacing: normal;
+	margin: 10px 0;
+}
+.theme-version h4 .dl-icon {
+	margin-right: 0.5em;
+}
+.theme-version ul {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	border-bottom: 1px solid #ECEDEF;
+	margin: 0;
+	padding: 0;
+	font-size: 14px;
+	letter-spacing: 0.5px;
+	list-style-type: none;
+	text-align: center;
+}
+.theme-version ul li {
+	display: inline-block;
+	margin: 0 0 10px;
+	padding: 0 10px;
+}
+.theme-version ul strong {
+	text-transform: uppercase;
+}
+.theme-version ul a {
+	color: #14CCB4;
+	color: var(--paletteColor5);
+}
+
+/* Theme Features */
+.theme-features {
+	position: relative;
+}
+.theme-features h3,
+.theme-features h4,
+.theme-features p {
+	text-align: center;
+}
+.theme-features h3 {
+	font-size: 18px;
+	margin: 0 auto 10px;
+}
+.theme-icon {
+	margin: 0 0 10px;
+}
+.theme-features .wp-block-image.theme-icon {
+	margin: 0 auto 20px;
+}
+.theme-upsell {
+	clear: both;
+	border-top: 1px solid #eee;
+	padding-top: 40px;
+}
+.theme-upsell p {
+	margin-bottom: 20px;
+	color: #909399;
+	color: var(--paletteColor2);
+}
+.theme-upsell p:last-child {
+	margin: auto;
+}
+.circle {
+	display: block;
+	width: 100px;
+	height: 100px;
+	margin: 0 auto 0.5em;
+	border-radius: 50px;
+	text-align: center;
+	line-height: 100px;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	background-color: #fff;
+}
+.circle-outline {
+	background-color: transparent;
+	border: 1px solid var(--paletteColor1);
+}
+.circle.medium {
+	width: 120px;
+	height: 120px;
+	border-radius: 60px;
+}
+.circle.medium img,
+.circle.medium svg {
+	padding-top: 20px;
+}
+.shape,
+.section img.aligncenter {
+	display: block;
+	text-align: center;
+}
+.shape {
+	margin: 10px auto 20px;
+}
+.shape + p {
+	margin: 0;
+}
+.shape .svg {
+	display: block;
+	margin: auto;
+}
+
+/* Theme Faq */
+.theme-faq {
+	padding: 30px;
+	background-color: #f2f4f7;
+	background-color: var(--paletteColor4);
+	border-radius: 8px;
+	box-sizing: border-box;
+}
+
+/* Theme List */
+.theme-item {
+	transition: transform .3s ease;
+	transform: translateY(0);
+}
+.theme-item figure {
+	margin: 0 0 20px;
+	padding: 8px;
+	background-color: #fff;
+	box-shadow: 0 8px 32px -4px rgba(0,0,0,.08);
+	border-radius: 8px;
+}
+.theme-item:hover {
+	transform: translateY(-10px);
+}
+.theme-item figure img {
+	display: block;
+	margin: auto;
+	max-width: 100%;
+	height: auto;
+}
+.theme-item h3 {
+	margin: 10px auto;
+	text-align: center;
+	padding: 0 20px;
+}
+.theme-item h3 a {
+	color: #151519;
+	color: var(--paletteColor1);
+}
+.theme-item h3 a:hover {
+	color: #14CCB4;
+	color: var(--paletteColor5);
+	text-decoration: none;
+}
+.theme-item p,
+.wp-block-columns .theme-item p {
+	margin: 10px 0;
+	padding: 0 20px;
+	color: #909399;
+	color: var(--paletteColor2);
+	text-align: center;
+}
+.theme-item.is-new {
+	position: relative;
+}
+.theme-item.is-new:before {
+	content: "new";
+	position: absolute;
+	top: -15px;
+	right: -15px;
+	background: #fd1c1c;
+	color: #fff;
+	height: 40px;
+	font-weight: 700;
+	width: 40px;
+	line-height: 42px;
+	font-size: 12px;
+	text-transform: uppercase;
+	border-radius: 100%;
+	text-align: center;
+	letter-spacing: 0.05em;
+	z-index: 10;
+}
+
+/* Promo Section */
+.promo-section {
+	padding: 30px 0 0;
+	text-align: center;
+	background-color: #f2f4f7;
+	background-color: var(--paletteColor4);
+	margin: 30px 0 0;
+}
+.promo-section h2 {
+	margin: 0 auto 10px;
+	text-align: center;
+}
+.promo-section p {
+	margin: 0 auto 20px;
+}
+.promo-section figure {
+	margin: auto;
+	max-width: var(--xs-max-width);
+}
+
+/* Latest Themes */
+.latest-themes {
+	padding-bottom: 0;
+}
+.latest-themes img {
+	display: block;
+	margin: auto;
+}
+.latest-themes h5 span {
+	position: relative;
+	display: inline-block;
+	padding-bottom: 5px;
+}
+.latest-themes h5 span:before {
+	content: "";
+	width: 40px;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	height: 3px;
+	background-color: #14CCB4;
+	background-color: var(--paletteColor5);
+}
+
+/* Featured Logos */
+.featured-logos {
+	padding: 20px 0;
+}
+.featured-logos h5 {
+	text-align: center;
+}
+.featured-logos h5 span {
+	display: inline-block;
+	padding: 0 10px;
+	margin-top: 0;
+}
+.featured-logos .logos {
+	text-align: center;
+	margin: auto;
+}
+.featured-logos .logos img {
+	display: inline-block;
+	margin: 10px 0;
+	padding: 0 10px;
+	max-height: 36px;
+}
+
+/* Theme Documentation */
+.doc-buttons {
+	text-align: center;
+	margin: 0 auto 40px;
+}
+.doc-buttons a {
+	margin: 0 8px;
+}
+.doc-buttons > a:first-child {
+	background-color: #fff;
+	color: #14CCB4;
+	color: var(--paletteColor5);
+	border: 2px solid var(--paletteColor5);
+	line-height: 21px;
+}
+.doc-menu,
+.doc-content {
+	list-style-type: none;
+	margin: 20px auto;
+	padding: 0;
+	counter-reset: li-counter;
+}
+.doc-menu {
+	padding: 0;
+	text-align: center;
+}
+.doc-menu > li {
+	display: inline-block;
+	padding: 6px 0;
+	margin: 0 16px 0 0;
+}
+.doc-menu a {
+	color: #151519;
+	color: var(--paletteColor1);
+}
+.doc-menu a:hover,
+.doc-menu > li:hover a,
+.doc-menu > li:hover:before {
+	color: #14CCB4;
+	color: var(--paletteColor5);
+	text-decoration: none;
+}
+.doc-menu > li:before {
+	display: inline-block;
+	padding-right: 8px;
+	content: counter(li-counter, decimal);
+	counter-increment: li-counter;
+	color: #151519;
+	color: var(--paletteColor1);
+	font-size: 14px;
+}
+.doc-menu > li:after {
+	content: "/";
+	display: inline-block;
+	padding-left: 16px;
+}
+.doc-menu > li:last-child:after {
+	content: none;
+}
+.doc-content {
+	list-style-type: none;
+	counter-reset: li-counter;
+	text-align: left;
+}
+.doc-content > li {
+	display: block;
+	position: relative;
+	margin: 0 0 30px 0;
+	padding: 0 0 0 32px;
+}
+.doc-content > li:before {
+	position: absolute;
+	height: 20px;
+	width: 20px;
+	left: 0;
+	top: 2px;
+	line-height: 22px;
+	content: counter(li-counter, decimal);
+	counter-increment: li-counter;
+	font-size: 12px;
+	font-weight: 600;
+	text-align: center;
+	color: #ffffff;
+	background-color: #151519;
+	background-color: var(--paletteColor1);
+	border-radius: 100%;
+	transition: all 0.3s ease-in-out 0s;
+}
+.doc-content ol,
+.doc-content ul {
+	padding: 0;
+	margin: 0 0 30px 0;
+}
+.doc-settings {
+	list-style-type: upper-alpha;
+	margin: 0 0 0 20px;
+	padding: 0;
+}
+.doc-settings > li {
+	margin: 0 0 20px 0;
+	padding: 0 0 0 10px;
+}
+.link-to-top {
+	font-size: 16px;
+	font-weight: 400;
+	vertical-align: middle;
+	display: inline-block;
+	margin-left: 4px;
+}
+.plus-label {
+	display: inline-block;
+	padding: 4px 10px 2px;
+	margin-left: 5px;
+	background-color: #14CCB4;
+	background-color: var(--paletteColor5);
+	color: #fff;
+	font-size: 10px;
+	line-height: 1.5;
+	font-weight: 700;
+	letter-spacing: 0.05em;
+	text-transform: uppercase;
+	border-radius: 2px;
+	vertical-align: middle;
+}
+.doc-link a {
+	display: block;
+	line-height: 20px;
+	padding: 20px;
+	margin: 0 auto 20px;
+	color: #151519;
+	color: var(--paletteColor1);
+	background-color: #f2f4f7;
+	background-color: var(--paletteColor4);
+	font-size: 16px;
+	text-transform: uppercase;
+	font-weight: 700;
+	text-align: center;
+	letter-spacing: 1px;
+	transition: background-color .3s ease-in-out;
+}
+.doc-link a:hover {
+	text-decoration: none;
+	background-color: #14CCB4;
+	background-color: var(--paletteColor5);
+	color: #fff;
+}
+
+/* Theme Documentation - Block Editor */
+h2.doc-title,
+h3.doc-title {
+	position: relative;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	align-items: center;
+}
+h2.doc-title {
+	padding-left: 30px;
+}
+h2.doc-title > span {
+	height: 20px;
+	width: 20px;
+	margin-right: 10px;
+	line-height: 22px;
+	font-size: 12px;
+	font-weight: 600;
+	text-align: center;
+	color: #ffffff;
+	background-color: #151519;
+	background-color: var(--paletteColor1);
+	border-radius: 100%;
+	transition: all 0.3s ease-in-out 0s;
+}
+h2.doc-title > label,
+h3.doc-title > label {
+	display: inline-block;
+	padding: 4px 10px 2px;
+	margin-left: 10px;
+	background-color: #14CCB4;
+	background-color: var(--paletteColor5);
+	color: #fff;
+	font-size: 10px;
+	line-height: 1.5;
+	font-weight: 700;
+	letter-spacing: 0.05em;
+	text-transform: uppercase;
+	border-radius: 2px;
+	vertical-align: middle;
+	cursor: default;
+}
+h2.doc-title > .link-to-top,
+h3.doc-title > .link-to-top {
+	font-size: 16px;
+	font-weight: 400;
+	vertical-align: middle;
+	display: inline-block;
+	margin-left: 10px;
+	cursor: pointer;
+}
+h3.doc-title {
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+	border-bottom: 1px solid var(--paletteColor3);
+}
+ol.doc-list,
+ul.doc-list {
+	padding: 0;
+}
+
+/*
+ * 11: Page Templates
+ */
+
+/* Homepage Template */
+.page-template-fullwidth article > :not(.alignfull) {
+	width: 88vw;
+	max-width: var(--lg-max-width);
+	margin-left: auto;
+	margin-right: auto;
+}
+.page-template-fullwidth article .alignfull > div {
+	width: 88vw;
+	max-width: var(--lg-max-width);
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/* Product Template */
+.page-template-product .site-header {
+	background-color: #f2f4f7;
+	background-color: var(--paletteColor4);
+	box-shadow: none;
+}
+
+/* 404 Page */
+.error404 .page-content {
+	min-height: 320px;
+}
+.error-404 input[type="submit"] {
+	border-radius: 0;
+}
+.error-404 .searchform {
+	text-align: center;
+	min-height: 360px;
+}
+
+/*
+ * 12: Plugins
+ */
+
+/* Easy Digital Downloads */
+#content #edd_checkout_form_wrap #edd-user-login-submit .button {
+	background-color: #14CCB4;
+	background-color: var(--paletteColor5);
+	color: #fff;
+}
+#content #edd_checkout_form_wrap span.edd-description {
+	display: none;
+}
+#content .edd-payment-icons {
+	height: auto;
+	margin-bottom: 20px;
+}
+#content #edd_checkout_form_wrap .edd-payment-icons img.payment-icon {
+	max-height: inherit;
+	float: none;
+}
+#content .edd_download_file {
+	margin: 10px 0;
+}
+#content .edd_download_file_link {
+	display: inline-flex;
+	align-items: center;
+	position: relative;
+	color: #14CCB4;
+	color: var(--paletteColor5);
+	background: transparent;
+	border: 0;
+	border-radius: 0;
+	cursor: pointer;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 24px;
+	padding: 4px 0;
+	margin: 0;
+	text-shadow: none;
+	text-decoration: underline;
+	transform: none;
+}
+#content .edd_download_file_link:hover,
+#content .edd_download_file_link:active,
+#content .edd_download_file_link:focus {
+	color: #14CCB4;
+	color: var(--paletteColor5);
+	outline: 0;
+	text-decoration: none;
+}
+#content .edd_download_file_link:before {
+	content: "";
+	width: 16px;
+	height: 16px;
+	margin-right: 8px;
+	background-image: url("data:image/svg+xml;charset=utf-8,<svg version='1.0' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24' stroke='%2314CCB4' stroke-width='2' fill='none' stroke-linecap='round' stroke-linejoin='round' class='css-i6dzq1'><path d='M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4'></path><polyline points='7 10 12 15 17 10'></polyline><line x1='12' y1='15' x2='12' y2='3'></line></svg>");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 100%;
+}
+#content .edd_purchase_receipt_files .edd_download_file_link {
+	color: #fff;
+	background-color: #14CCB4;
+	background-color: var(--paletteColor5);
+	border-radius: 4px;
+	padding: 8px 16px;
+	text-decoration: none;
+}
+#content .edd_purchase_receipt_files .edd_download_file_link:hover,
+#content .edd_purchase_receipt_files .edd_download_file_link:active,
+#content .edd_purchase_receipt_files .edd_download_file_link:focus {
+	color: #fff;
+	background-color: #0ABFA8;
+	background-color: var(--paletteColor6);
+}
+#content .edd_purchase_receipt_files .edd_download_file_link:before {
+	background-image: url("data:image/svg+xml;charset=utf-8,<svg version='1.0' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' width='24' height='24' stroke='white' stroke-width='2' fill='none' stroke-linecap='round' stroke-linejoin='round' class='css-i6dzq1'><path d='M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4'></path><polyline points='7 10 12 15 17 10'></polyline><line x1='12' y1='15' x2='12' y2='3'></line></svg>");
+}
+#content .edd_purchase_receipt_product_notes p {
+	margin: 0;
+}
+#content #edd-purchase-button {
+	margin: 0 10px;
+}
+#content .edd-submit,
+#content .edd-submit.button.blue {
+	padding: 10px 20px;
+	background-color: #14CCB4;
+	background-color: var(--paletteColor5);
+	color: #fff;
+	border: 0;
+	border-radius: 4px;
+	font-size: 16px;
+	font-weight: 700;
+	line-height: 24px;
+	box-shadow: none;
+	text-transform: none;
+}
+#content .edd-submit:hover,
+#content .edd-submit.button.blue:hover {
+	background-color: #0ABFA8;
+	background-color: var(--paletteColor6);
+	transform: none;
+}
+
+#content .edd-submit.button.edd-cart-saving-button {
+	color: #14CCB4;
+	color: var(--paletteColor5);
+	background: #fff;
+	padding: 0;
+	font-weight: 400;
+}
+#content .edd-submit.button.edd-cart-saving-button:hover {
+	color: #0ABFA8;
+	background-color: var(--paletteColor6);
+	background: #fff;
+	text-decoration: underline;
+	transform: none;
+}
+#content .edd-manage-license-back {
+	color: #fff;
+}
+#content .edd-alert {
+	font-size: 16px;
+}
+#content .edd-alert-success a {
+	color: #3c763d;
+	text-decoration: underline;
+}
+#content #edd_sl_license_add_site_form input[type="submit"] {
+	padding-left: 20px;
+	padding-right: 20px;
+	border-radius: 0;
+}
+#content #edd_sl_cancel_renewal_form input[type="submit"] {
+	font-size: 18px;
+	font-weight: 400;
+	color: #888;
+	border: 1px solid #ddd;
+	background-color: #f4f4f4;
+}
+#content .edd-add-to-cart.text {
+	padding: 0;
+	background: transparent;
+	border: 0;
+	border-radius: 0;
+	line-height: inherit;
+	color: #14CCB4;
+	color: var(--paletteColor5);
+	text-transform: none;
+}
+.theme-item .edd_purchase_submit_wrapper {
+	padding-bottom: 20px;
+}
+.theme-item .edd-cart-added-alert {
+	width: 100%;
+	font-size: 14px;
+}
+.edd_cart_remove_item_btn,
+.edd-cancel a {
+	color: #909399;
+	color: var(--paletteColor2);
+}
+.edd-cancel {
+	font-size: 14px;
+}
+.edd_cart_remove_item_btn:hover,
+.edd-cancel a:hover {
+	color: #b94a48;
+}
+
+/* Fieldset */
+#content #edd_checkout_form_wrap fieldset {
+	border: 1px solid var(--paletteColor3);
+	padding: 0 0 20px 0;
+	margin-bottom: 30px;
+	background-color: #fff;
+}
+#content #edd_checkout_form_wrap #edd_register_fields {
+	background-color: transparent;
+}
+#content #edd_checkout_form_wrap #edd_sl_renewal_fields {
+	padding: 10px 20px;
+}
+#content #edd_checkout_form_wrap #edd_sl_renewal_fields p:last-of-type {
+	margin-bottom: 0;
+}
+#content #edd_checkout_form_wrap #edd-license-key-container-wrap {
+	padding: 0;
+	margin: 20px auto;
+	background: #fff;
+}
+#content #edd_checkout_form_wrap fieldset legend {
+	background-color: transparent;
+	margin: 0 0 20px;
+	padding: 0;
+	color: #151519;
+	color: var(--paletteColor1);
+	font-size: 18px;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+#content #edd_checkout_form_wrap #edd_checkout_user_info,
+#content #edd_checkout_form_wrap #edd_register_account_fields,
+#content #edd_checkout_form_wrap #edd_payment_mode_select {
+	padding-top: 60px;
+	position: relative;
+}
+#content #edd_checkout_form_wrap #edd_checkout_user_info legend,
+#content #edd_checkout_form_wrap #edd_register_account_fields legend,
+#content #edd_checkout_form_wrap #edd_payment_mode_select legend {
+	position: absolute;
+	left: 0;
+	top: 0;
+	height: 60px;
+	padding: 15px 20px;
+	line-height: 30px;
+	background-color: #f2f4f7;
+	background-color: var(--paletteColor4);
+	border-bottom: 1px solid var(--paletteColor3);
+}
+#content #edd_checkout_form_wrap #edd_checkout_user_info p,
+#content #edd_checkout_form_wrap #edd_register_account_fields p,
+#content #edd_checkout_form_wrap #edd_payment_mode_select > div {
+	padding: 20px 20px 0;
+	margin: 0;
+	background-color: #fff;
+}
+#content #edd_checkout_form_wrap #edd_purchase_submit {
+	/* padding-bottom: 0; */
+}
+#content #edd_checkout_form_wrap input.edd-input,
+#content #edd_checkout_form_wrap textarea.edd-input {
+	width: 100%;
+	padding: 5px 10px;
+	border: 1px solid #eee;
+}
+#content #edd_checkout_form_wrap label {
+	font-size: 16px;
+}
+#content #edd_checkout_form_wrap span.edd-description {
+	font-size: 14px;
+}
+#content #edd_checkout_form_wrap #edd_register_fields {
+	padding: 0;
+	margin: 0;
+	border: 0 !important;
+}
+#content #edd_checkout_form_wrap #edd-login-account-wrap,
+#content #edd_checkout_form_wrap #edd-new-account-wrap {
+	padding: 15px 20px;
+	margin: 0 0 20px 0;
+	background-color: #fff;
+	border: 1px solid var(--paletteColor3);
+}
+#content #edd_final_total_wrap {
+	font-size: 18px;
+	color: #151519;
+	color: var(--paletteColor1);
+	border-width: 0 0 1px 0;
+	border-style: solid;
+	border-bottom-color: #e3e5e8;
+	border-bottom-color: var(--paletteColor3);
+}
+#edd_checkout_form_wrap #edd-login-account-wrap,
+#edd_checkout_form_wrap #edd-new-account-wrap,
+#edd_checkout_form_wrap #edd_final_total_wrap,
+#edd_checkout_form_wrap .edd-cart-adjustment {
+	background-color: #f2f4f7;
+	background-color: var(--paletteColor4);
+}
+#edd_checkout_user_info .edd-label.terms {
+	font-weight: 400;
+}
+
+/* Purchase Submit */
+#content #edd_checkout_form_wrap #edd_purchase_submit {
+	padding: 0;
+	border: 0;
+}
+#content #edd_checkout_form_wrap #edd_purchase_submit p {
+	padding: 15px 20px;
+}
+#content #edd_checkout_form_wrap #edd_purchase_submit #edd-privacy-policy-agreement {
+	border: 0;
+	padding: 0;
+}
+#content #edd_checkout_form_wrap .edd-privacy-policy-agreement label {
+	font-weight: 400;
+}
+#content #edd_checkout_form_wrap #edd_purchase_submit #edd_final_total_wrap {
+	padding: 0;
+	margin: 0 0 10px;
+	background: transparent;
+	border: 0;
+}
+#content #edd_checkout_form_wrap #edd_purchase_submit #edd-purchase-button {
+	margin: 0;
+}
+
+/* Discount code */
+#content #edd_checkout_form_wrap #edd_discount_code {
+	padding-bottom: 0;
+}
+#edd_checkout_form_wrap #edd_show_discount,
+#edd_checkout_form_wrap #edd-discount-code-wrap {
+	background-color: #fff;
+	color: #151519;
+	color: var(--paletteColor1);
+	margin: 0;
+	border: 0;
+}
+#edd_checkout_form_wrap #edd-discount-code-wrap {
+	padding: 20px;
+}
+#content #edd-discount-code-wrap .edd-submit {
+	border-radius: 4px;
+}
+
+/* Tables */
+#content #edd_purchase_receipt_products,
+#content #edd_purchase_receipt,
+#content #edd_user_history,
+#content #edd_checkout_cart,
+#content #edd_sl_license_keys,
+#content #edd_sl_license_sites {
+	border-width: 1px 0 0 1px;
+	border-color: #e3e5e8;
+	border-color: var(--paletteColor3);
+	border-style: solid;
+	border-collapse: inherit;
+}
+#content #edd_purchase_receipt_products td,
+#content #edd_purchase_receipt_products th,
+#content #edd_purchase_receipt td,
+#content #edd_purchase_receipt th,
+#content #edd_user_history td,
+#content #edd_user_history th,
+#content #edd_checkout_cart td,
+#content #edd_checkout_cart th,
+#content #edd_sl_license_keys td,
+#content #edd_sl_license_keys th,
+#content #edd_sl_license_sites td,
+#content #edd_sl_license_sites th {
+	padding: 15px 20px;
+	border-width: 0 1px 1px 0;
+	border-style: solid;
+	border-color: #e3e5e8;
+	border-color: var(--paletteColor3);
+}
+#content #edd_user_history td.edd_download_download_name {
+	font-weight: 700;
+}
+#content #edd_purchase_receipt_products th,
+#content #edd_purchase_receipt th,
+#content #edd_user_history th,
+#content #edd_checkout_cart th,
+#content #edd_sl_license_keys th,
+#content #edd_sl_license_sites th {
+	background-color: #f2f4f7;
+	background-color: var(--paletteColor4);
+	color: #151519;
+	color: var(--paletteColor1);
+}
+#content #edd_purchase_receipt_products td,
+#content #edd_purchase_receipt td,
+#content #edd_user_history td,
+#content #edd_checkout_cart td,
+#content #edd_sl_license_keys td,
+#content #edd_sl_license_sites td {
+	background-color: #fff;
+	font-size: 16px;
+	color: #151519;
+	color: var(--paletteColor1);
+}
+#content #edd_checkout_cart {
+	margin-bottom: 30px;
+}
+#content #edd_checkout_cart tfoot th {
+	background-color: #fff;
+}
+
+/* EDD Login Form, Register form and Profile */
+#content .edd_form fieldset {
+	padding: 0;
+	border: 0;
+}
+#edd_register_form legend,
+#edd_login_form fieldset legend,
+#edd_profile_editor_form legend {
+	font-size: 18px;
+	font-weight: 700;
+	margin: 20px 0;
+}
+#edd_register_form label,
+#edd_login_form label {
+	display: block;
+	margin-bottom: 5px;
+}
+#edd_register_form p,
+#edd_login_form p {
+	margin: 0;
+	font-size: 16px;
+}
+#edd_register_form p + p,
+#edd_login_form p + p {
+	margin-top: 20px;
+}
+#edd_register_form fieldset,
+#edd_login_form fieldset {
+	margin-bottom: 30px;
+}
+#edd_register_form .edd-input,
+#edd_login_form .edd-input {
+	min-width: 50%;
+}
+#edd_profile_editor_form fieldset {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+#edd_profile_editor_form label,
+#edd_profile_editor_form input,
+#edd_profile_editor_form select {
+	margin-bottom: 10px;
+	width: 100%;
+	font-size: 16px;
+	box-sizing: border-box;
+}
+#edd_profile_editor_form label {
+	display: block;
+}
+#edd_profile_editor_form p {
+	margin-bottom: 10px;
+}
+
+/* Shopping Cart */
+#content .edd-cart {
+	list-style-type: none;
+	margin: 20px 0;
+	padding: 0;
+}
+#content .edd-cart .edd_subtotal {
+	font-style: normal;
+}
+#content .edd-cart .edd-cart-number-of-items {
+	color: #909399;
+	color: var(--paletteColor2);
+}
+#content .edd-cart .edd-remove-from-cart {
+	color: #909399;
+	color: var(--paletteColor2);
+	position: relative;
+}
+#content .edd-cart .edd-remove-from-cart:hover {
+	color: #d94436;
+	text-decoration: none;
+}
+#content .edd-cart .edd_checkout a {
+	display: inline-block;
+	font-size: 16px;
+	line-height: 1;
+	padding: 0.75em 1.5em;
+	background-color: #14CCB4;
+	background-color: var(--paletteColor5);
+	border: 0;
+	border-bottom: 2px solid rgba(0,0,0,0.1);
+	border-radius: 4px;
+	text-decoration: none;
+	color: #fff;
+}
+#content .edd-cart .edd_checkout a:hover {
+	background-color: var(--paletteColor6);
+	border-color: rgba(0,0,0,.1);
+}
+
+/* WP Forms */
+#main .wpforms-form .wpforms-field-label {
+	font-size: 18px;
+	margin: 10px 0 5px;
+}
+#main .wpforms-form .wpforms-field-description {
+	color: #909399;
+	color: var(--paletteColor2);
+	font-size: 14px;
+	margin-top: 10px;
+}
+#main .wpforms-form button {
+	border: 0;
+	border-radius: 4px;
+	background-color: #14CCB4;
+	background-color: var(--paletteColor5);
+	color: #fff;
+	font-size: 16px;
+	font-weight: 700;
+	text-transform: capitalize;
+	letter-spacing: .5px;
+	line-height: 24px;
+	padding: 10px 30px;
+}
+#main .wpforms-form button:hover,
+#main .wpforms-form button:active {
+	color: #fff;
+	background-color: #0ABFA8;
+	background-color: var(--paletteColor6);
+}
+#main .wpforms-confirmation-container-full {
+	background: #d9edf7;
+	border: 1px solid rgba(0,0,0,.08);
+	color: #31708f;
+}
+
+/* MailChimp Form */
+.mc4wp-form {
+	max-width: 600px;
+	margin: auto;
+}
+.mc4wp-form label {
+	display: block;
+	margin: 0;
+}
+.mc4wp-form p {
+	position: relative;
+	display: flex;
+	align-items: center;
+	flex-flow: row wrap;
+	margin: 0;
+	color: #909399;
+	color: var(--paletteColor2);
+}
+.mc4wp-form p + p {
+	margin-top: 10px;
+}
+.mc4wp-form a {
+	color: #151519;
+	color: var(--paletteColor1);
+	text-decoration: underline;
+}
+.mc4wp-form a:hover {
+	text-decoration: none;
+	color: #151519;
+	color: var(--paletteColor1);
+}
+.mc4wp-form input[type="email"] {
+	height: 60px;
+	width: 100%;
+	flex: 1 0 0;
+	font-size: 18px;
+	border: 0;
+	padding: 4px 120px 4px 8px;
+}
+.mc4wp-form input[type="submit"] {
+	position: absolute;
+	right: 8px;
+	top: 8px;
+	width: 116px;
+	height: 44px;
+	line-height: 24px;
+	padding: 8px;
+	margin: 0;
+	text-transform: none;
+	font-weight: 600;
+	letter-spacing: 0.5px;
+	color: #fff;
+	background-color: #151519;
+	background-color: var(--paletteColor1);
+}
+.mc4wp-response {
+	margin: 10px 0 0;
+}
+.mc4wp-notice p,
+.mc4wp-success p,
+.mc4wp-error p {
+	padding: 0;
+	margin: 0;
+	display: flex;
+	align-items: center;
+	font-weight: 600;
+}
+.mc4wp-notice p:before,
+.mc4wp-success p:before,
+.mc4wp-error p:before {
+	content: '';
+	display: block;
+	width: 18px;
+	height: 18px;
+	margin-right: .5em;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.mc4wp-notice p:before,
+.mc4wp-success p:before {
+	background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23151519' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='feather feather-check-circle'><path d='M22 11.08V12a10 10 0 1 1-5.93-9.14'></path><polyline points='22 4 12 14.01 9 11.01'></polyline></svg>");
+}
+.mc4wp-error p:before {
+	background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23151519' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='feather feather-alert-triangle'><path d='M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z'></path><line x1='12' y1='9' x2='12' y2='13'></line><line x1='12' y1='17' x2='12.01' y2='17'></line></svg>");
+}
+.subscribe-section {
+	margin-bottom: 30px;
+}
+.subscribe-section .subscribe-content {
+	padding: 20px;
+	box-shadow: 0 40px 40px -24px rgb(0 0 0 / 8%), 0 80px 80px -48px rgb(0 0 0 / 16%);
+	border-radius: 8px;
+	background-color: #14CCB4;
+	background-color: var(--paletteColor5);
+	background: radial-gradient(circle at top left,var(--paletteColor7) 0%,var(--paletteColor5) 100%);
+	box-sizing: border-box;
+}
+.subscribe-section .section-title,
+.subscribe-section .section-subtitle,
+.subscribe-section .mc4wp-form p,
+.subscribe-section .mc4wp-form a {
+	color: #fff;
+}
+.subscribe-section .mc4wp-response p {
+	color: #151519;
+	color: var(--paletteColor1);
+}
+.subscribe-section .section-subtitle {
+	margin-bottom: 20px;
+}
+.subscribe-section .mc4wp-form input[type="submit"] {
+	box-shadow: 0 4px 16px -2px rgb(0 0 0 / 8%);
+	transition: transform ease .2s;
+	transform: translateY(0);
+}
+.subscribe-section .mc4wp-form input[type="submit"]:hover {
+	transform: translateY(-4px);
+	box-shadow: 0 8px 32px -4px rgb(0 0 0 / 16%);
+}
+.widget .mc4wp-form {
+	max-width: 100%;
+	margin: 0;
+}
+.widget .mc4wp-form input[type="email"] {
+	height: 40px;
+	border: 0;
+	font-size: 16px;
+	margin: 0;
+	padding-right: 40px;
+}
+.widget .mc4wp-form input[type="submit"] {
+	position: absolute;
+	right: 4px;
+	top: 4px;
+	width: 32px;
+	height: 32px;
+	padding: 0;
+	margin: 0;
+	background: transparent url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='%23151519' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><line x1='5' y1='12' x2='19' y2='12'></line><polyline points='12 5 19 12 12 19'></polyline></svg>") no-repeat center;
+	background-size: 24px;
+	text-indent: -999em;
+	border: 0;
+	border-radius: 0;
+	transition: transform ease .2s;
+	transform: translateX(0);
+}
+.widget .mc4wp-form input[type="submit"]:hover {
+	transform: translateX(4px);
+}
+.widget .mc4wp-form a,
+.mc4wp-notice p,
+.mc4wp-success p,
+.mc4wp-error p {
+	color: #fff;
+}
+.mc4wp-notice p:before,
+.mc4wp-success p:before,
+.mc4wp-error p:before {
+	content: none;
+}
+
+/*
+ * 13: Blocks
+ */
+.wp-block-image {
+	margin-bottom: 30px;
+}
+.wp-block-image.theme-icon {
+	margin-bottom: 10px;
+}
+.wp-block-cover__inner-container > *:last-child {
+	margin-bottom: 0;
+}
+.wp-block-separator {
+	color: #151519;
+	color: var(--paletteColor1);
+	border: 0;
+}
+.wp-block-separator:not(.is-style-wide) {
+	background-color: #151519;
+	background-color: var(--paletteColor1);
+	margin: 40px auto;
+}
+.wp-block-separator:not(.is-style-wide):not(.is-style-dots) {
+	height: 4px;
+	max-width: 80px;
+}
+.wp-block-separator.is-style-dots:before {
+	background-color: transparent;
+	font-size: 2rem;
+	letter-spacing: 2rem;
+	padding-left: 2rem;
+}
+.wp-block-separator.is-style-wide {
+	background-color: #e3e5e8;
+	background-color: var(--paletteColor3);
+}
+.wp-block-quote.is-style-large,
+.wp-block-quote.is-large {
+	margin-bottom: 30px;
+	padding: 0 40px;
+}
+.wp-block-quote.is-style-large p,
+.wp-block-quote.is-large p {
+	font-size: 24px;
+	font-style: italic;
+	line-height: 1.5;
+}
+.wp-block-image.alignfull img,
+.wp-block-image.alignwide img {
+	width: 100%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.wp-block-buttons {
+	margin-bottom: 30px;
+}
+.wp-block-buttons .wp-block-button {
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+.wp-block-button__link {
+	padding: 10px 30px;
+	font-size: 16px;
+	font-weight: 600;
+	line-height: 24px;
+	background-color: #151519;
+	background-color: var(--paletteColor1);
+	border-radius: 4px;
+	opacity: 1;
+	transform: translateY(0);
+	transition: transform .2s ease;
+	box-shadow: 0 4px 16px -2px rgba(0,0,0,.08);
+}
+.is-large .wp-block-button__link {
+	position: relative;
+	font-size: 18px;
+	text-transform: capitalize;
+	padding: 16px 32px;
+	font-weight: 600;
+}
+.wp-block-button.is-style-outline .wp-block-button__link {
+	background-color: transparent;
+	color: #151519;
+	color: var(--paletteColor1);
+	line-height: 21px;
+}
+.wp-block-button:not(.is-style-outline) .wp-block-button__link:not(.has-text-color) {
+	color: #fff;
+}
+.wp-block-button__link:hover,
+.wp-block-button__link:active,
+.wp-block-button__link:focus {
+	transform: translateY(-4px);
+	box-shadow: 0 8px 32px -4px rgba(0,0,0,.08);
+	text-decoration: none;
+}
+.wp-block-columns,
+.wp-block-media-text {
+	margin-bottom: 40px;
+}
+.wp-block-column p {
+	margin: 0 0 20px;
+}
+.wp-block-column > *:last-child {
+	margin-bottom: 0;
+}
+.wp-block-media-text h2 {
+	margin: 20px 0;
+	line-height: 1.25;
+}
+.wp-block-media-text h4 {
+	margin: 0 0 10px;
+}
+.wp-block-media-text p {
+	margin: 0 0 20px;
+}
+.wp-block-cover.hero-cover {
+	min-height: 80vh;
+}
+.wp-block-cover.hero-cover h1 {
+	max-width: var(--xs-max-width);
+	margin: auto;
+	padding: 0;
+}
+.wp-block-cover.hero-cover .hero-tagline {
+	max-width: var(--xs-max-width);
+	font-size: 18px;
+	margin: 20px auto;
+	font-weight: 400;
+}
+.wp-block-cover.hero-cover .wp-block-button {
+	margin: auto;
+}
+.wp-block-cover .wp-block-button__link:hover,
+.wp-block-cover .wp-block-button__link:active,
+.wp-block-cover .wp-block-button__link:focus {
+	opacity: 1;
+}
+@media screen and (min-width: 782px) {
+	.wp-block-columns[class*="wp-container-"] {
+		gap: 40px;
+	}
+}
+@media screen and (max-width: 599px) {
+	.wp-block-column:not(:last-child) {
+		margin-bottom: 30px;
+	}
+}
+
+/* Colors & Font sizes */
+.has-text-color a {
+	color: inherit;
+}
+.site-content .has-accent-color {
+	color: #14CCB4;
+	color: var(--paletteColor5);
+}
+.site-content .has-black-color {
+	color: #000;
+}
+.site-content .has-dark-color {
+	color: #151519;
+	color: var(--paletteColor1);
+}
+.site-content .has-gray-color {
+	color: #909399;
+	color: var(--paletteColor2);
+}
+.site-content .has-light-gray-color {
+	color: #f2f4f7;
+	color: var(--paletteColor4);
+}
+.site-content .has-white-color {
+	color: #fff;
+}
+.site-content .has-accent-background-color {
+	background-color: #14CCB4;
+	background-color: var(--paletteColor5);
+}
+.site-content .has-black-background-color {
+	background-color: #000;
+}
+.site-content .has-dark-background-color {
+	background-color: #151519;
+	background-color: var(--paletteColor1);
+}
+.site-content .has-gray-background-color {
+	background-color: #909399;
+	background-color: var(--paletteColor2);
+}
+.site-content .has-light-gray-background-color {
+	background-color: #f2f4f7;
+	background-color: var(--paletteColor4);
+}
+.site-content .has-white-background-color {
+	background-color: #fff;
+}
+
+/*
+ * 14: Responsive
+ */
+
+@media screen and (min-width: 480px) {
+	/* Mobile Navigation */
+	.mobile-navigation {
+		width: 340px;
+	}
+	/* Content */
+	.entry-cover-image {
+		margin-left: auto;
+		margin-right: auto;
+	}
+	/* Sections */
+	.theme-hero h1 {
+		margin-top: 20px;
+	}
+	.theme-hero .preview-link {
+		margin-left: 10px;
+	}
+	.latest-themes img {
+		max-width: 420px;
+		height: auto;
+	}
+	/* Form */
+	input[type="text"],
+	input[type="email"],
+	input[type="url"],
+	input[type="password"],
+	input[type="search"],
+	input[type="number"],
+	input[type="tel"],
+	input[type="range"],
+	input[type="date"],
+	input[type="month"],
+	input[type="week"],
+	input[type="time"],
+	input[type="datetime"],
+	input[type="datetime-local"],
+	input[type="color"] {
+		width: inherit;
+	}
+}
+
+@media screen and (min-width: 720px) {
+	/* General */
+	.container,
+	.container-fluid {
+		width: 90vw;
+	}
+	/* Content */
+	.entry-header h1,
+	.page-header h1 {
+		margin-bottom: 20px;
+	}
+	.entry-footer {
+		flex-direction: row;
+		flex-wrap: wrap;
+	}
+	.entry-featured-image {
+		min-height: 320px;
+	}
+	.page .entry-content {
+		min-height: 420px;
+	}
+	.singular .entry-thumbnail {
+		box-shadow: 0 16px 64px -8px rgba(0,0,0,.16);
+		overflow: hidden;
+		border-radius: 8px;
+	}
+	.theme-thumbnail:before {
+		height: 30px;
+		line-height: 30px;
+	}
+	#content .edd-submit,
+	#content .edd-submit.button.blue {
+		padding-left: 30px;
+		padding-right: 30px;
+	}
+	#content .edd-submit.button.edd-cart-saving-button {
+		padding: 0;
+	}
+	/* Posts Loop */
+	.posts-loop {
+		grid-template-columns: 1fr 1fr;
+		grid-template-columns: repeat(2,minmax(0,1fr));
+		grid-auto-flow: row;
+		grid-gap: 30px;
+	}
+	.posts-loop .entry-thumbnail {
+		max-height: 320px;
+	}
+	/* Footer */
+	.footer-copy {
+		grid-template-columns: 1fr 1fr;
+		grid-template-columns: repeat(2,minmax(0,1fr));
+		grid-auto-flow: row;
+		grid-gap: 30px;
+	}
+	.site-footer .social-menu {
+		justify-content: flex-end;
+	}
+	/* Sections */
+	.screenshot-desktop {
+		padding: 15px;
+	}
+	.latest-themes img {
+		max-width: 480px;
+		height: auto;
+	}
+	.theme-hero-container {
+		grid-template-columns: 1fr 2fr;
+		grid-template-columns: minmax(0, 1fr) minmax(0, 2fr);
+		grid-auto-flow: row;
+		grid-gap: 30px;
+	}
+	.theme-download,
+	.theme-purchase {
+		justify-content: flex-start;
+	}
+	.theme-version ul {
+		flex-direction: row;
+		padding: 10px 0;
+	}
+	.theme-version ul li {
+		margin: 10px 0;
+	}
+	/* Header Notice */
+	.header-notice-title,
+	.header-notice-date {
+		display: inline;
+	}
+	/* Page Templates */
+	.page-template-fullwidth article > :not(.alignfull) {
+		width: 90vw;
+	}
+	.page-template-fullwidth article .alignfull > div {
+		width: 90vw;
+	}
+	/* Theme Documentation */
+	h2.doc-title {
+		padding-left: 0;
+	}
+	h2.doc-title > span {
+		position: absolute;
+		left: -30px;
+		top: 7px;
+		margin-right: 0;
+	}
+	/* MailChimp Form */
+	.mc4wp-form input[type="email"] {
+		padding: 4px 156px 4px 16px;
+		height: 64px;
+	}
+	.mc4wp-form input[type="submit"] {
+		width: 140px;
+		height: 48px;
+		line-height: 32px;
+	}
+	.subscribe-section .subscribe-content {
+		padding: 30px;
+	}
+	/* Blocks */
+	.wp-block-cover.hero-cover {
+		min-height: 75vh;
+	}
+	.wp-block-cover.hero-cover .hero-tagline {
+		font-size: 21px;
+		margin-bottom: 30px;
+	}
+}
+
+@media screen and (min-width: 960px) {
+	/* Typography */
+	h1,
+	.entry-header h1,
+	.page-header h1 {
+		font-size: 48px;
+	}
+	h2,
+	.section-title {
+		font-size: 36px;
+	}
+	h3 {
+		font-size: 24px;
+	}
+	h4 {
+		font-size: 21px;
+	}
+	.section-subtitle {
+		font-size: 21px;
+	}
+	/* Header */
+	.header-container {
+		min-height: 100px;
+	}
+	.header-container > *:nth-child(1),
+	.header-container > *:nth-child(3) {
+		flex: 0 0 30%;
+	}
+	.header-container > *:nth-child(2) {
+		flex: 0 0 40%;
+		justify-content: center;
+	}
+	.shopping-cart {
+		display: none;
+	}
+	/* Main Navigation */
+	.menu-toggle,
+	.dropdown-toggle,
+	.mobile-overlay,
+	.mobile-navigation {
+		display: none;
+	}
+	.header-navigation {
+		display: block;
+	}
+	body:not(.logged-in) .secondary-menu > li:first-child {
+		display: none;
+	}
+	.header-menu {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+	}
+	.header-menu li {
+		position: relative;
+	}
+	.header-menu a {
+		display: block;
+		color: #151519;
+		color: var(--paletteColor1);
+		font-size: 16px;
+	}
+	.header-menu > li {
+		padding: 10px 8px;
+		border-bottom: 0;
+	}
+	.header-menu > li > a {
+		display: flex;
+		align-items: center;
+		position: relative;
+		padding: 0 4px;
+		line-height: 20px;
+		opacity: 1;
+		transition: opacity .3s ease;
+	}
+	.header-menu > li > a:hover {
+		color: #151519;
+		color: var(--paletteColor1);
+		opacity: .6;
+	}
+	.header-menu a:hover,
+	.header-menu li:focus > a {
+		color: #14CCB4;
+		color: var(--paletteColor5);
+	}
+	.header-menu > li.menu-item-has-children > a:after {
+		content: "";
+		display: inline-block;
+		width: 0;
+		height: 0;
+		border-left: 4px solid transparent;
+		border-right: 4px solid transparent;
+		border-top: 4px dashed;
+		margin: 4px 0 0 4px;
+	}
+	.header-menu > li.menu-item-has-children .dl-icon {
+		margin-right: 4px;
+	}
+	.header-menu li.current-menu-item > a {
+		font-weight: 700;
+	}
+	.header-menu > li.current-menu-item > a:before {
+		content: '';
+		width: 100%;
+		position: absolute;
+		left: 0;
+		bottom: -4px;
+		height: 1px;
+		background-color: #151519;
+		background-color: var(--paletteColor1);
+	}
+	.header-menu .sub-menu {
+		display: block;
+		position: absolute;
+		top: 40px;
+		right: 0;
+		margin: 0;
+		padding: 0;
+		opacity: 0;
+		visibility: hidden;
+		border: 1px solid #eee;
+		background-color: #fff;
+		font-size: inherit;
+		transform: translate3d(0,10px,0);
+		z-index: 999;
+		transition: opacity 0.3s ease, visibility 0.3s ease, transform 0.3s ease;
+	}
+	.header-menu .sub-menu li {
+		line-height: inherit;
+		padding: 0;
+	}
+	.header-menu .sub-menu a {
+		width: 140px;
+		padding: 10px 0;
+		margin: 0 20px;
+		line-height: 20px;
+	}
+	.header-menu .sub-menu > li > a {
+		border-bottom: 1px solid #eee;
+	}
+	.header-menu .sub-menu > li:last-child > a {
+		border-bottom: 0;
+	}
+	.header-menu li:hover > ul,
+	.header-menu li.focus > ul {
+		opacity: 1;
+		visibility: visible;
+		transform: translate3d(0,0,0);
+	}
+	.header-menu > li > ul:before {
+		border-bottom: 8px solid #fff;
+		border-left: 8px solid transparent;
+		border-right: 8px solid transparent;
+		content: "";
+		right: 40px;
+		position: absolute;
+		top: -8px;
+		z-index: 19;
+	}
+	.header-menu > li > ul:after {
+		border-bottom: 10px solid #eee;
+		border-left: 10px solid transparent;
+		border-right: 10px solid transparent;
+		content: "";
+		right: 38px;
+		position: absolute;
+		top: -10px;
+		z-index: 16;
+	}
+	.header-menu ul li:hover > ul,
+	.header-menu ul li.focus > ul {
+		right: 100%;
+	}
+	.header-menu ul ul {
+		top: -1px;
+	}
+	.transparent-header .site-header {
+		z-index: 10;
+	}
+	.transparent-header .header-menu > li > a {
+		color: #fff;
+	}
+	/* Content */
+	.singular .entry-header,
+	.page-header {
+		margin: 80px 0 40px;
+	}
+	.entry-featured-image {
+		height: 420px;
+	}
+	.singular .entry-thumbnail {
+		max-width: var(--md-max-width);
+	}
+	.comment-navigation,
+	.posts-navigation,
+	.post-navigation {
+		margin: 40px auto;
+	}
+	.singular .entry-footer {
+		margin-top: 40px;
+	}
+	.entry-cover-image {
+		margin: 40px auto;
+	}
+	/* Posts Loop */
+	.posts-loop {
+		margin: 40px 0;
+		grid-template-columns: 1fr 1fr 1fr;
+		grid-template-columns: repeat(3,minmax(0,1fr));
+		grid-gap: 40px;
+	}
+	/* Footer */
+	.footer-widgets {
+		grid-template-columns: 1fr 1fr 1fr 1fr;
+		grid-template-columns: repeat(4,minmax(0,1fr));
+		grid-gap: 40px;
+		padding: 40px 0;
+	}
+	.footer-copy {
+		grid-gap: 40px;
+		padding: 30px 0;
+	}
+	.site-credits,
+	.footer-copy {
+		text-align: left;
+	}
+	/* Widgets */
+	.widget {
+		margin: 0;
+		text-align: left;
+	}
+	/* Sections */
+	.section {
+		padding: 40px 0;
+	}
+	.theme-hero {
+		padding: 80px 0 0;
+		overflow: hidden;
+	}
+	.theme-hero-container {
+		grid-gap: 40px;
+	}
+	.theme-hero h1 {
+		margin: 40px auto 0;
+	}
+	.theme-hero h1,
+	.theme-info,
+	.theme-action {
+		text-align: left;
+	}
+	.theme-version ul li {
+		padding: 0 20px;
+	}
+	.doc-content > li:before {
+		top: 8px;
+	}
+	.theme-features h3 {
+		font-size: 21px;
+	}
+	.theme-screenshot {
+		padding: 0 10%;
+	}
+	.screenshot-desktop {
+		padding: 20px;
+		box-shadow: 0 8px 40px rgba(0,0,0,.08);
+	}
+	.screenshot-mobile {
+		display: inline-block;
+		position: absolute;
+		bottom: 0;
+		right: 0;
+		width: 160px;
+		padding: 8px 8px 40px
+	}
+	.screenshot-mobile:before {
+		content: "";
+		background: #eee;
+		border-radius: 50%;
+		bottom: 12px;
+		display: block;
+		height: 15px;
+		left: 50%;
+		margin-left: -5px;
+		position: absolute;
+		width: 15px;
+	}
+	.promo-section {
+		padding: 40px 0 0;
+		margin-top: 40px;
+	}
+	.subscribe-section {
+		margin-bottom: 40px;
+	}
+	.theme-faq {
+		padding: 40px;
+	}
+	/* EDD */
+	#edd_profile_editor_form label,
+	#edd_profile_editor_form input,
+	#edd_profile_editor_form select {
+		width: inherit;
+		margin-bottom: 20px;
+	}
+	#edd_profile_editor_form label {
+		display: inline-block;
+		min-width: 30%;
+	}
+	#edd_profile_editor_form input[type="text"],
+	#edd_profile_editor_form input[type="email"] {
+		min-width: 50%;
+	}
+	#content #edd_checkout_form_wrap input.edd-input,
+	#content #edd_checkout_form_wrap textarea.edd-input {
+		width: 50%;
+	}
+}
+@media screen and (min-width: 1280px) {
+	/* Posts Loop */
+	.posts-loop .hentry {
+		padding-bottom: 40px;
+	}
+	.pagination {
+		margin: 40px auto;
+	}
+	.posts-loop .entry-header,
+	.posts-loop .entry-summary,
+	.posts-loop .entry-footer {
+		padding-left: 40px;
+		padding-right: 40px;
+	}
+	/* Sections */
+	.screenshot-mobile {
+		width: 200px;
+		right: -15px;
+	}
+	/* Blocks */
+	.wp-block-cover.hero-cover h1 {
+		font-size: 56px;
+	}
+}
+</style><link rel="icon" href="https://www.designlabthemes.com/wp-content/uploads/2021/08/cropped-designlab-icon-2021-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.designlabthemes.com/wp-content/uploads/2021/08/cropped-designlab-icon-2021-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.designlabthemes.com/wp-content/uploads/2021/08/cropped-designlab-icon-2021-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.designlabthemes.com/wp-content/uploads/2021/08/cropped-designlab-icon-2021-270x270.png" />
+</head>
+
+<body class="post-template-default single single-post postid-689 single-format-standard edd-js-none">
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg>	<style>.edd-js-none .edd-has-js, .edd-js .edd-no-js, body.edd-js input.edd-no-js { display: none; }</style>
+	<script>/* <![CDATA[ */(function(){var c = document.body.classList;c.remove('edd-js-none');c.add('edd-js');})();/* ]]> */</script>
+	
+<div id="page" class="site">
+
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	
+	<header id="masthead" class="site-header" role="banner">
+		<div class="container-fluid">
+			<div class="header-container">
+
+				<div class="header-column">
+										<p class="site-logo">						<a href="https://www.designlabthemes.com/" rel="home">
+							<svg version="1.0" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 16">
+								<path d="M5.9,15.5c4.9,0,8-3.1,8-7.5s-3.1-7.5-8-7.5H0v15H5.9z M5.7,12.9H3V3.1h2.7
+									c2.9,0,5.1,1.7,5.1,4.9S8.6,12.9,5.7,12.9z M31.4,15.5v-2.7h-8.7V9.3h7.1V6.8h-7.1V3.1h8.7V0.5H19.7v15H31.4z M42.4,15.9
+									c4.1,0,5.9-2.1,5.9-4.7c0-2.4-1.7-3.7-5.4-4.7c-2.4-0.7-3.1-1.1-3.1-2c0-0.9,0.8-1.5,2.5-1.5c2.5,0,4.1,1.3,4.1,1.3L48,1.7
+									c0,0,0,0,0,0l0,0c-0.3-0.3-2-1.5-5.6-1.5c-3.9,0-5.9,1.8-5.9,4.5c0,2.4,1.8,3.6,5.2,4.6c2.6,0.7,3.3,1.2,3.3,2.2
+									c0,1-0.7,1.7-2.6,1.7c-2.5,0-4.4-1.5-4.4-1.5l-1.7,2.3C36.2,13.9,38.3,15.9,42.4,15.9z M57.1,15.5v-15h-3v15H57.1z M70.9,15.9
+									c4.7,0,7.1-3.1,7.1-7.6V6.8h-7.5v2.5h4.3v0.2c-0.1,2-1.5,3.5-4,3.5c-2.9,0-4.8-2.1-4.8-5s2-4.9,4.8-4.9c2.4,0,3.9,1.3,3.9,1.3
+									l1.8-2.3c0,0-1.7-1.9-5.6-1.9c-5,0-8,3.5-8,7.9S65.9,15.9,70.9,15.9z M86.8,15.5V6.3l10.1,9.2h0.7v-15h-3v9l-10.1-9h-0.8v15H86.8z
+									 M122.8,15.5v-2.7h-8V0.5h-3v15H122.8z M129.6,15.5l1-2.1h7.2l1,2.1h3.4l-7.8-15h-0.5l-7.7,15H129.6z M136.7,11.2h-5.1l0.2-0.3
+									L134,6h0.2l2.3,4.9L136.7,11.2z M154.3,15.5c3.5,0,5.7-1.6,5.7-4.4c0-1.6-0.9-2.8-2.4-3.2V7.6c1.2-0.5,1.9-1.6,1.9-3
+									c0-2.6-1.9-4.1-5.5-4.1h-7.2v15H154.3z M154,6.8h-4.1V3.1h4.1c1.5,0,2.3,0.7,2.3,1.8C156.3,6,155.5,6.8,154,6.8z M154.4,12.9h-4.5V9
+									h4.4c1.5,0,2.4,0.8,2.4,1.9C156.8,12.1,155.8,12.9,154.4,12.9z"/>
+							</svg>
+						</a>
+					</p>				</div>
+
+				<div class="header-column">
+					<nav class="header-navigation" role="navigation" aria-label="Primary Menu">
+					<ul id="primary-menu" class="header-menu primary-menu"><li id="menu-item-28063" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28063"><a href="https://www.designlabthemes.com/wordpress-themes/">WordPress Themes</a></li>
+<li id="menu-item-27474" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-27474"><a href="https://www.designlabthemes.com/blog/">Blog</a></li>
+<li id="menu-item-10285" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10285"><a href="https://www.designlabthemes.com/support/">Support</a><button class="dropdown-toggle" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span></button>
+<ul class="sub-menu">
+	<li id="menu-item-18492" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18492"><a href="https://www.designlabthemes.com/faq/">FAQs</a></li>
+	<li id="menu-item-30274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30274"><a href="https://www.designlabthemes.com/documentation/">Documentation</a></li>
+	<li id="menu-item-18493" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18493"><a href="https://www.designlabthemes.com/open-ticket/">Open Ticket</a></li>
+</ul>
+</li>
+</ul>					</nav>
+				</div>
+
+				<div class="header-column">
+											<div class="shopping-cart">
+														<a class="edd-checkout" href="https://www.designlabthemes.com/checkout/?nocache=true">
+								<span class="dl-icon"><svg class="icon icon-cart" aria-hidden="true" role="img"> <use href="#icon-cart" xlink:href="#icon-cart"></use> </svg></span>
+															</a>
+						</div>
+
+										<nav class="header-navigation" role="navigation" aria-label="Secondary Menu">
+					<ul id="secondary-menu" class="header-menu secondary-menu"><li id="menu-item-30368" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-30368"><a href="https://www.designlabthemes.com/my-account/">My Account</a><button class="dropdown-toggle" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span></button>
+<ul class="sub-menu">
+	<li id="menu-item-30369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30369"><a href="https://www.designlabthemes.com/user-downloads/">Downloads</a></li>
+	<li id="menu-item-30370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30370"><a href="https://www.designlabthemes.com/checkout/purchase-history/">Purchase History</a></li>
+	<li id="menu-item-30371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30371"><a href="https://www.designlabthemes.com/license-keys/">License Keys</a></li>
+</ul>
+</li>
+<li class="sign-up"><a href="https://www.designlabthemes.com/wp-login.php?action=register">Sign Up</a></li><li><a href="https://www.designlabthemes.com/wp-login.php?redirect_to=https://www.designlabthemes.com/my-account/"><span class="dl-icon"><svg class="icon icon-user" aria-hidden="true" role="img"> <use href="#icon-user" xlink:href="#icon-user"></use> </svg></span>Login</a></li><li class="edd-checkout"><a href="https://www.designlabthemes.com/checkout/?nocache=true"><span class="dl-icon"><svg class="icon icon-cart" aria-hidden="true" role="img"> <use href="#icon-cart" xlink:href="#icon-cart"></use> </svg></span></a></li></ul>					</nav>
+					<button id="menu-toggle" class="menu-toggle" on="tap:AMP.setState({visible: !visible})" aria-controls="mobile-menu" aria-expanded="false">
+						<span class="screen-reader-text">Mobile Menu</span>
+					</button>
+				</div>
+
+			</div>
+		</div>
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+	<main id="main" class="site-main" role="main">
+		<div class="container">
+
+			
+<article id="post-689" class="singular post-689 post type-post status-publish format-standard has-post-thumbnail hentry category-resources tag-seo">
+	<header class="entry-header">
+		<p class="breadcrumbs"><span><span><a href="https://www.designlabthemes.com/">Home</a></span> » <span><a href="https://www.designlabthemes.com/blog/">Design Lab Blog</a></span> » <span class="breadcrumb_last" aria-current="page">Basic SEO tips for bloggers</span></span></p>		<h1 class="entry-title"><span>Basic SEO tips for bloggers</span></h1>					<div class="entry-meta">
+				<span class="posted-on"><span class="screen-reader-text">Posted on</span> <a href="https://www.designlabthemes.com/basic-seo-tips-for-bloggers/" rel="bookmark"><time class="entry-date published" datetime="2021-09-22T13:30:00+02:00">22/09/2021</time><time class="updated" datetime="2021-09-22T17:20:44+02:00">22/09/2021</time></a></span><span class="byline"><span class="author vcard"><span class="screen-reader-text">Author</span> <a class="url fn n" href="https://www.designlabthemes.com/author/designlab/">Design Lab</a></span></span>			</div>
+			</header><!-- .entry-header -->
+
+			<div class="entry-cover-image">
+			<figure class="entry-thumbnail">
+				<img width="1200" height="690" src="https://www.designlabthemes.com/wp-content/uploads/2013/09/seo-tips.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" decoding="async" srcset="https://www.designlabthemes.com/wp-content/uploads/2013/09/seo-tips.png 1200w, https://www.designlabthemes.com/wp-content/uploads/2013/09/seo-tips-340x196.png 340w, https://www.designlabthemes.com/wp-content/uploads/2013/09/seo-tips-768x442.png 768w, https://www.designlabthemes.com/wp-content/uploads/2013/09/seo-tips-900x518.png 900w, https://www.designlabthemes.com/wp-content/uploads/2013/09/seo-tips-300x173.png 300w" sizes="(max-width: 1200px) 100vw, 1200px" />			</figure>
+		</div>
+	
+	<div class="entry-content">
+		
+<p>In this post, we&#8217;ll share with you basic SEO tips to optimize your website and to help you rank better on Google search results page with ease.</p>
+
+
+
+<p>SEO stands for &#8220;Search Engine Optimization&#8221;, also known as Organic Search.<br>It is the process of developing website content that is more attractive for indexing in search engines (such as Google, Yahoo, Bing, etc. ). </p>
+
+
+
+<p><strong>The goal of SEO</strong> is to rank higher in search engines when users search for keywords that best relate to your content.</p>
+
+
+
+<p class="notice info">We craft beautiful and easy-to-use WordPress themes with performance, usability and SEO in mind: check out our&nbsp;<a href="https://www.designlabthemes.com/wordpress-themes/">Premium WordPress themes</a>.</p>
+
+
+
+<h2>Basic SEO tips to Improve Search Engine Optimization</h2>
+
+
+
+<p class="step-list step-list-heading has-medium-font-size"><span>1</span><strong>What People will be Searching for</strong></p>
+
+
+
+<p class="step-list">When you write a post you should consider what words people might be putting into search engines to find that type of information.</p>
+
+
+
+<p class="step-list has-xs-margin"><strong>How to find the focus keyword?</strong><br>Here you can find some tips to identify the main keyword or key phrase for your post/page:</p>
+
+
+
+<ul class="step-list"><li>Make a list of topics based on what you know</li><li>Study your niche and the search intent</li><li>Identify specific problems you can solve</li><li>Check the search engine result pages to find related keywords</li></ul>
+
+
+
+<p class="step-list step-list-heading has-medium-font-size"><span>2</span><strong>Title</strong></p>
+
+
+
+<p class="step-list">Google pays particular attention to titles. Keep your page titles short. Google only shows 50-60 characters in their search result pages.</p>
+
+
+
+<p class="step-list step-list-heading has-medium-font-size"><span>3</span><strong>Content</strong></p>
+
+
+
+<p class="step-list">The quality of the posts you write is the single most important factor when it comes to Search Optimization on a Blog.<br>Create good quality content: your blog posts should contain at least 300 / 400 words.</p>
+
+
+
+<p class="step-list step-list-heading has-medium-font-size"><span>4</span><strong>Add a Meta description</strong></p>
+
+
+
+<p class="step-list">Give to your page a meta description (156 chars). The meta description is how Google describes your page in its results.</p>
+
+
+
+<div class="wp-block-image step-list-image"><figure class="aligncenter size-large"><img decoding="async" loading="lazy" width="900" height="599" src="https://www.designlabthemes.com/wp-content/uploads/2021/09/meta_description-900x599.png" alt="basic SEO tips" class="wp-image-30872" srcset="https://www.designlabthemes.com/wp-content/uploads/2021/09/meta_description-900x599.png 900w, https://www.designlabthemes.com/wp-content/uploads/2021/09/meta_description-340x226.png 340w, https://www.designlabthemes.com/wp-content/uploads/2021/09/meta_description-768x511.png 768w, https://www.designlabthemes.com/wp-content/uploads/2021/09/meta_description.png 960w" sizes="(max-width: 900px) 100vw, 900px" /></figure></div>
+
+
+
+<p class="step-list step-list-heading has-medium-font-size"><span>6</span><strong>Internal Links</strong></p>
+
+
+
+<p class="step-list">Adding links to your website pages is a great way to increase your blog’s rankings.</p>
+
+
+
+<h2>SEO Resources for WordPress</h2>
+
+
+
+<p>Resources you can use to learn about SEO and stay on top of SEO, including some free tools that’ll be useful for your WordPress blog or website.</p>
+
+
+
+<p><strong>Yoast SEO Plugin</strong><br><meta charset="utf-8">The Yoast SEO Plugin helps millions of websites to rank higher in search engines.<br><a href="https://wordpress.org/plugins/wordpress-seo/" target="_blank" rel="noreferrer noopener">https://wordpress.org/plugins/wordpress-seo/</a></p>
+
+
+
+<p><strong>Keyword.io</strong><br><a href="https://www.keyword.io/" target="_blank" rel="noreferrer noopener">https://www.keyword.io/</a><br>Free keyword research tool.</p>
+
+
+
+<p><strong>Google Trends</strong><br>Discover trends in people&#8217;s search.<br><a href="https://trends.google.com/" target="_blank" rel="noreferrer noopener">https://trends.google.com/</a></p>
+
+
+
+<p><strong>Web Vitals</strong><br>Core Web Vitals measure and evaluate how your website performs. They are an official Google ranking factor.<br><a href="https://web.dev/measure/" target="_blank" rel="noreferrer noopener">https://web.dev/measure/</a></p>
+
+
+
+<p><meta charset="utf-8"><strong>Google Search Console</strong><br>Tools to improve your site&#8217;s performance in Google Search.<br><a href="https://search.google.com/search-console/about" target="_blank" rel="noreferrer noopener">https://search.google.com/search-console/about</a></p>
+
+
+
+<p><meta charset="utf-8"><strong>Google</strong> <strong>Search Console Insights</strong> (beta)<br>Understand how audiences discover your site.<br><a href="https://search.google.com/search-console/insights/about" target="_blank" rel="noreferrer noopener">https://search.google.com/search-console/insights/about</a></p>
+	</div><!-- .entry-content -->
+
+	<footer class="entry-footer">
+		<span class="cat-links">Category: <a href="https://www.designlabthemes.com/category/resources/" rel="category tag">Resources</a></span><span class="tags-links">Tags: <a href="https://www.designlabthemes.com/tag/seo/" rel="tag">SEO</a></span>	</footer><!-- .entry-footer -->
+
+	<div class="social-share"><a class="facebook-link" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.designlabthemes.com%2Fbasic-seo-tips-for-bloggers%2F" target="_blank" title="Share on Facebook"><svg class="icon icon-facebook" aria-hidden="true" role="img"> <use href="#icon-facebook" xlink:href="#icon-facebook"></use> </svg><span class="social-label">Share</span></a><a class="twitter-link" href="https://twitter.com/intent/tweet?text=Basic%20SEO%20tips%20for%20bloggers&amp;url=https%3A%2F%2Fwww.designlabthemes.com%2Fbasic-seo-tips-for-bloggers%2F" target="_blank" title="Share on Twitter"><svg class="icon icon-twitter" aria-hidden="true" role="img"> <use href="#icon-twitter" xlink:href="#icon-twitter"></use> </svg><span class="social-label">Tweet</span></a><a class="pinterest-link" href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.designlabthemes.com%2Fbasic-seo-tips-for-bloggers%2F&amp;media=https://www.designlabthemes.com/wp-content/uploads/2013/09/seo-tips.png" target="_blank" title="Share on Pinterest"><svg class="icon icon-pinterest" aria-hidden="true" role="img"> <use href="#icon-pinterest" xlink:href="#icon-pinterest"></use> </svg><span class="social-label">Pin it</span></a><a class="linkedin-link" href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.designlabthemes.com%2Fbasic-seo-tips-for-bloggers%2F&amp;title=Basic%20SEO%20tips%20for%20bloggers" target="_blank" title="Share on LinkedIn"><svg class="icon icon-linkedin" aria-hidden="true" role="img"> <use href="#icon-linkedin" xlink:href="#icon-linkedin"></use> </svg><span class="social-label">Share</span></a><a class="whatsapp-link" href="whatsapp://send?text=Basic%20SEO%20tips%20for%20bloggers https%3A%2F%2Fwww.designlabthemes.com%2Fbasic-seo-tips-for-bloggers%2F" target="_blank" title="Share on WhatsApp"><svg class="icon icon-whatsapp" aria-hidden="true" role="img"> <use href="#icon-whatsapp" xlink:href="#icon-whatsapp"></use> </svg><span class="social-label">Share</span></a></div></article><!-- #post-## -->
+
+		</div><!-- .container -->
+	</main><!-- #main -->
+
+	
+<section class="section related-posts">
+	<div class="container">
+
+		<h2 class="section-title text-center">
+			You may also like		</h2>
+
+		<div class="posts-loop">
+			
+									<article id="post-625" class="grid-post post-625 post type-post status-publish format-standard has-post-thumbnail hentry category-resources">
+													<figure class="entry-thumbnail">
+								<a href="https://www.designlabthemes.com/how-to-create-your-icon-font/" title="How to easily create your icon font">
+									<img width="720" height="414" src="https://www.designlabthemes.com/wp-content/uploads/2015/02/add-vector-icons-new-900x518.png" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.designlabthemes.com/wp-content/uploads/2015/02/add-vector-icons-new-900x518.png 900w, https://www.designlabthemes.com/wp-content/uploads/2015/02/add-vector-icons-new-340x196.png 340w, https://www.designlabthemes.com/wp-content/uploads/2015/02/add-vector-icons-new-768x442.png 768w, https://www.designlabthemes.com/wp-content/uploads/2015/02/add-vector-icons-new-300x173.png 300w, https://www.designlabthemes.com/wp-content/uploads/2015/02/add-vector-icons-new.png 1200w" sizes="(max-width: 720px) 100vw, 720px" />								</a>
+							</figure>
+												<header class="entry-header">
+															<div class="cat-links"><a href="https://www.designlabthemes.com/category/resources/" rel="category tag">Resources</a></div>
+														<h2 class="entry-title"><a href="https://www.designlabthemes.com/how-to-create-your-icon-font/" rel="bookmark">How to easily create your icon font</a></h2>						</header><!-- .entry-header -->
+					</article>
+									<article id="post-2329" class="grid-post post-2329 post type-post status-publish format-standard has-post-thumbnail hentry category-resources">
+													<figure class="entry-thumbnail">
+								<a href="https://www.designlabthemes.com/free-icons-download/" title="Where to find and download free icons">
+									<img width="720" height="405" src="https://www.designlabthemes.com/wp-content/uploads/2021/08/free-icons-download2-900x506.png" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.designlabthemes.com/wp-content/uploads/2021/08/free-icons-download2-900x506.png 900w, https://www.designlabthemes.com/wp-content/uploads/2021/08/free-icons-download2-340x191.png 340w, https://www.designlabthemes.com/wp-content/uploads/2021/08/free-icons-download2-768x432.png 768w, https://www.designlabthemes.com/wp-content/uploads/2021/08/free-icons-download2.png 1200w" sizes="(max-width: 720px) 100vw, 720px" />								</a>
+							</figure>
+												<header class="entry-header">
+															<div class="cat-links"><a href="https://www.designlabthemes.com/category/resources/" rel="category tag">Resources</a></div>
+														<h2 class="entry-title"><a href="https://www.designlabthemes.com/free-icons-download/" rel="bookmark">Where to find and download free icons</a></h2>						</header><!-- .entry-header -->
+					</article>
+									<article id="post-3897" class="grid-post post-3897 post type-post status-publish format-standard has-post-thumbnail hentry category-resources">
+													<figure class="entry-thumbnail">
+								<a href="https://www.designlabthemes.com/free-thin-line-icons/" title="8+ Free Thin Line Icons">
+									<img width="720" height="414" src="https://www.designlabthemes.com/wp-content/uploads/2015/06/line-icons-new-900x518.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://www.designlabthemes.com/wp-content/uploads/2015/06/line-icons-new-900x518.jpg 900w, https://www.designlabthemes.com/wp-content/uploads/2015/06/line-icons-new-340x196.jpg 340w, https://www.designlabthemes.com/wp-content/uploads/2015/06/line-icons-new-768x442.jpg 768w, https://www.designlabthemes.com/wp-content/uploads/2015/06/line-icons-new-300x173.jpg 300w, https://www.designlabthemes.com/wp-content/uploads/2015/06/line-icons-new.jpg 1200w" sizes="(max-width: 720px) 100vw, 720px" />								</a>
+							</figure>
+												<header class="entry-header">
+															<div class="cat-links"><a href="https://www.designlabthemes.com/category/resources/" rel="category tag">Resources</a></div>
+														<h2 class="entry-title"><a href="https://www.designlabthemes.com/free-thin-line-icons/" rel="bookmark">8+ Free Thin Line Icons</a></h2>						</header><!-- .entry-header -->
+					</article>
+				
+					</div>
+
+	</div>
+</section><!-- .related-posts -->
+
+	
+<section class="section promo-section">
+	<div class="container">
+		<div class="section-title">
+			Choose your WordPress Theme		</div>
+		<p class="section-subtitle">
+			Get the right WordPress Theme for your blog, magazine or shop.		</p>
+		<a class="button large" href="https://www.designlabthemes.com/wordpress-themes/?utm_source=footer_button&utm_medium=blog&utm_campaign=blog_footer">
+			Shop Themes		</a>
+		<figure>
+			<a href="https://www.designlabthemes.com/wordpress-themes/?utm_source=footer_img&utm_medium=blog&utm_campaign=blog_footer">
+				<img loading="lazy" width="890" height="360" src="https://www.designlabthemes.com/wp-content/uploads/2021/08/theme-composition-01.png" alt="" class="aligncenter size-full" srcset="https://www.designlabthemes.com/wp-content/uploads/2021/08/theme-composition-01.png 890w, https://www.designlabthemes.com/wp-content/uploads/2021/08/theme-composition-01-340x138.png 340w, https://www.designlabthemes.com/wp-content/uploads/2021/08/theme-composition-01-768x311.png 768w" sizes="(max-width: 890px) 100vw, 890px">
+			</a>
+		</figure>
+	</div>
+</section>
+
+
+	</div><!-- #content -->
+
+	
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="container-fluid">
+
+			<div class="footer-widgets widget-area" role="complementary">
+									<section id="nav_menu-2" class="widget widget_nav_menu"><h4 class="widget-title">Design Lab</h4><div class="menu-company-container"><ul id="menu-company" class="menu"><li id="menu-item-5382" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5382"><a href="https://www.designlabthemes.com/contact/">Contact</a></li>
+<li id="menu-item-5934" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-5934"><a href="https://www.designlabthemes.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-22323" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22323"><a href="https://www.iubenda.com/privacy-policy/7847333/cookie-policy">Cookie Policy</a></li>
+<li id="menu-item-15402" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15402"><a href="https://www.designlabthemes.com/terms/">Terms</a></li>
+</ul></div></section>				
+									<section id="nav_menu-4" class="widget widget_nav_menu"><h4 class="widget-title">Support</h4><div class="menu-support-container"><ul id="menu-support" class="menu"><li id="menu-item-8689" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8689"><a href="https://www.designlabthemes.com/faq/">F.A.Q.</a></li>
+<li id="menu-item-30275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30275"><a href="https://www.designlabthemes.com/documentation/">Documentation</a></li>
+<li id="menu-item-8690" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8690"><a href="https://www.designlabthemes.com/support/">Support</a></li>
+</ul></div></section>				
+									<section id="nav_menu-5" class="widget widget_nav_menu"><h4 class="widget-title">Resources</h4><div class="menu-resources-container"><ul id="menu-resources" class="menu"><li id="menu-item-28064" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28064"><a href="https://www.designlabthemes.com/wordpress-themes/">Premium WordPress Themes</a></li>
+<li id="menu-item-30276" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30276"><a href="https://wordpress.org/themes/author/designlabthemes/">Free WordPress Themes</a></li>
+<li id="menu-item-17407" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-17407"><a href="https://www.designlabthemes.com/blog/">Blog</a></li>
+</ul></div></section>				
+									<section id="mc4wp_form_widget-2" class="widget widget_mc4wp_form_widget"><h4 class="widget-title">Subscribe</h4><script>(function() {
+	window.mc4wp = window.mc4wp || {
+		listeners: [],
+		forms: {
+			on: function(evt, cb) {
+				window.mc4wp.listeners.push(
+					{
+						event   : evt,
+						callback: cb
+					}
+				);
+			}
+		}
+	}
+})();
+</script><!-- Mailchimp for WordPress v4.8.12 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-5919" method="post" data-id="5919" data-name="Design Lab Themes Newsletter" ><div class="mc4wp-form-fields"><p>
+<input type="email" name="EMAIL" placeholder="Email Address" required>
+<input type="submit" value="Subscribe">
+</p>
+
+<p>
+    <label>
+        <input name="AGREE_TO_TERMS" type="checkbox" value="1" required=""> I would like to receive the Design Lab Newsletter, and I have read and agree to the <a href="https://www.designlabthemes.com/privacy-policy/" target="_blank">Privacy Policy</a>
+    </label>
+</p>
+
+
+
+
+</div><label style="display: none !important;">Leave this field empty if you're human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1671859452" /><input type="hidden" name="_mc4wp_form_id" value="5919" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin --></section>							</div><!-- .widget-area -->
+
+			<div class="footer-copy">
+				<p class="site-credits">
+					&copy; 2022 Design Lab Themes					<span class="sep">-</span>
+					Free and Premium WordPress Themes Made For You.				</p>
+				<nav id="social-navigation" class="social-navigation" role="navigation">
+					<ul id="menu-social-menu" class="social-menu"><li id="menu-item-6773" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6773"><a href="https://twitter.com/designlabthemes">Twitter</a></li>
+<li id="menu-item-18714" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18714"><a href="https://www.instagram.com/designlabthemes/">Instagram</a></li>
+<li id="menu-item-6774" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6774"><a href="https://wordpress.org/themes/author/designlabthemes/">WordPress</a></li>
+</ul>				</nav>
+			</div>
+
+		</div>
+	</footer>
+</div><!-- #page -->
+
+<div class="mobile-overlay" id="mobile-overlay">
+	<div class="mobile-overlay-content">
+		<nav id="mobile-navigation" class="mobile-navigation" role="navigation" aria-label="Mobile Menu">
+		<ul id="mobile-menu-1" class="mobile-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28063"><a href="https://www.designlabthemes.com/wordpress-themes/">WordPress Themes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-27474"><a href="https://www.designlabthemes.com/blog/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10285"><a href="https://www.designlabthemes.com/support/">Support</a><button class="dropdown-toggle" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span></button>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18492"><a href="https://www.designlabthemes.com/faq/">FAQs</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30274"><a href="https://www.designlabthemes.com/documentation/">Documentation</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18493"><a href="https://www.designlabthemes.com/open-ticket/">Open Ticket</a></li>
+</ul>
+</li>
+</ul><ul id="mobile-menu-2" class="mobile-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-30368"><a href="https://www.designlabthemes.com/my-account/">My Account</a><button class="dropdown-toggle" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span></button>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30369"><a href="https://www.designlabthemes.com/user-downloads/">Downloads</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30370"><a href="https://www.designlabthemes.com/checkout/purchase-history/">Purchase History</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30371"><a href="https://www.designlabthemes.com/license-keys/">License Keys</a></li>
+</ul>
+</li>
+<li class="sign-up"><a href="https://www.designlabthemes.com/wp-login.php?action=register">Sign Up</a></li><li><a href="https://www.designlabthemes.com/wp-login.php?redirect_to=https://www.designlabthemes.com/my-account/"><span class="dl-icon"><svg class="icon icon-user" aria-hidden="true" role="img"> <use href="#icon-user" xlink:href="#icon-user"></use> </svg></span>Login</a></li><li class="edd-checkout"><a href="https://www.designlabthemes.com/checkout/?nocache=true"><span class="dl-icon"><svg class="icon icon-cart" aria-hidden="true" role="img"> <use href="#icon-cart" xlink:href="#icon-cart"></use> </svg></span></a></li></ul>		</nav>
+	</div>
+</div>
+
+<script>(function() {function maybePrefixUrlField() {
+	if (this.value.trim() !== '' && this.value.indexOf('http') !== 0) {
+		this.value = "http://" + this.value;
+	}
+}
+
+var urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]');
+if (urlFields) {
+	for (var j=0; j < urlFields.length; j++) {
+		urlFields[j].addEventListener('blur', maybePrefixUrlField);
+	}
+}
+})();</script><script type='text/javascript' id='edd-ajax-js-extra'>
+/* <![CDATA[ */
+var edd_scripts = {"ajaxurl":"https:\/\/www.designlabthemes.com\/wp-admin\/admin-ajax.php","position_in_cart":"","has_purchase_links":"","already_in_cart_message":"You have already added this item to your cart","empty_cart_message":"Your cart is empty","loading":"Loading","select_option":"Please select an option","is_checkout":"0","default_gateway":"paypal","redirect_to_checkout":"1","checkout_page":"https:\/\/www.designlabthemes.com\/checkout\/?nocache=true","permalinks":"1","quantities_enabled":"","taxes_enabled":"0","current_page":"689"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.designlabthemes.com/wp-content/plugins/easy-digital-downloads/assets/js/edd-ajax.js?ver=3.1.0.3' id='edd-ajax-js'></script>
+<script type='text/javascript' src='https://www.designlabthemes.com/wp-content/themes/design-lab/assets/js/main.js?ver=20210724' id='design-lab-script-js'></script>
+<script type='text/javascript' defer src='https://www.designlabthemes.com/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.8.12' id='mc4wp-forms-api-js'></script>
+<svg style="position: absolute; width: 0; height: 0; overflow: hidden;" xmlns="http://www.w3.org/2000/svg" version="1.0">
+	<defs>
+		<!-- Web Icons -->
+		<symbol id="icon-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></symbol>
+		<symbol id="icon-x" viewBox="0 0 24 24"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></symbol>
+		<symbol id="icon-arrow-left" viewBox="0 0 24 24"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></symbol>
+		<symbol id="icon-arrow-right" viewBox="0 0 24 24"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></symbol>
+		<symbol id="icon-cart" viewBox="0 0 24 24"><circle cx="9" cy="21" r="1"></circle><circle cx="20" cy="21" r="1"></circle><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path></symbol>
+		<symbol id="icon-user" viewBox="0 0 24 24"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></symbol>
+		<symbol id="icon-plus-circle" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"></circle><line x1="12" y1="8" x2="12" y2="16"></line><line x1="8" y1="12" x2="16" y2="12"></line></symbol>
+		<symbol id="icon-x-circle" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"></circle><line x1="15" y1="9" x2="9" y2="15"></line><line x1="9" y1="9" x2="15" y2="15"></line></symbol>
+		<!-- Social Icons -->
+		<symbol id="icon-facebook" viewBox="0 0 512 512">
+			<path d="m512 258c0-142-115-256-256-256-141 0-256 114-256 256 0 127 94 233 216 252l0-178-65 0 0-74 65 0 0-57c0-64 38-99 97-99 28 0 57 5 57 5l0 63-32 0c-32 0-42 19-42 40l0 48 71 0-11 74-60 0 0 178c122-19 216-125 216-252z"/>
+		</symbol>
+		<symbol id="icon-instagram" viewBox="24 16 16 32">
+			<g><path d="M46.91,25.816c-0.073-1.597-0.326-2.687-0.697-3.641c-0.383-0.986-0.896-1.823-1.73-2.657c-0.834-0.834-1.67-1.347-2.657-1.73c-0.954-0.371-2.045-0.624-3.641-0.697C36.585,17.017,36.074,17,32,17s-4.585,0.017-6.184,0.09c-1.597,0.073-2.687,0.326-3.641,0.697c-0.986,0.383-1.823,0.896-2.657,1.73c-0.834,0.834-1.347,1.67-1.73,2.657c-0.371,0.954-0.624,2.045-0.697,3.641C17.017,27.415,17,27.926,17,32c0,4.074,0.017,4.585,0.09,6.184c0.073,1.597,0.326,2.687,0.697,3.641c0.383,0.986,0.896,1.823,1.73,2.657c0.834,0.834,1.67,1.347,2.657,1.73c0.954,0.371,2.045,0.624,3.641,0.697C27.415,46.983,27.926,47,32,47s4.585-0.017,6.184-0.09c1.597-0.073,2.687-0.326,3.641-0.697c0.986-0.383,1.823-0.896,2.657-1.73c0.834-0.834,1.347-1.67,1.73-2.657c0.371-0.954,0.624-2.045,0.697-3.641C46.983,36.585,47,36.074,47,32S46.983,27.415,46.91,25.816z M44.21,38.061c-0.067,1.462-0.311,2.257-0.516,2.785c-0.272,0.7-0.597,1.2-1.122,1.725c-0.525,0.525-1.025,0.85-1.725,1.122c-0.529,0.205-1.323,0.45-2.785,0.516c-1.581,0.072-2.056,0.087-6.061,0.087s-4.48-0.015-6.061-0.087c-1.462-0.067-2.257-0.311-2.785-0.516c-0.7-0.272-1.2-0.597-1.725-1.122c-0.525-0.525-0.85-1.025-1.122-1.725c-0.205-0.529-0.45-1.323-0.516-2.785c-0.072-1.582-0.087-2.056-0.087-6.061s0.015-4.48,0.087-6.061c0.067-1.462,0.311-2.257,0.516-2.785c0.272-0.7,0.597-1.2,1.122-1.725c0.525-0.525,1.025-0.85,1.725-1.122c0.529-0.205,1.323-0.45,2.785-0.516c1.582-0.072,2.056-0.087,6.061-0.087s4.48,0.015,6.061,0.087c1.462,0.067,2.257,0.311,2.785,0.516c0.7,0.272,1.2,0.597,1.725,1.122c0.525,0.525,0.85,1.025,1.122,1.725c0.205,0.529,0.45,1.323,0.516,2.785c0.072,1.582,0.087,2.056,0.087,6.061S44.282,36.48,44.21,38.061z M32,24.297c-4.254,0-7.703,3.449-7.703,7.703c0,4.254,3.449,7.703,7.703,7.703c4.254,0,7.703-3.449,7.703-7.703C39.703,27.746,36.254,24.297,32,24.297z M32,37c-2.761,0-5-2.239-5-5c0-2.761,2.239-5,5-5s5,2.239,5,5C37,34.761,34.761,37,32,37z M40.007,22.193c-0.994,0-1.8,0.806-1.8,1.8c0,0.994,0.806,1.8,1.8,1.8c0.994,0,1.8-0.806,1.8-1.8C41.807,22.999,41.001,22.193,40.007,22.193z"/></g>
+		</symbol>
+		<symbol id="icon-twitter" viewBox="24 16 16 32">
+			<g><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"/></g>
+		</symbol>
+		<symbol id="icon-linkedin" viewBox="24 16 16 32">
+			<g><path d="M20.4,44h5.4V26.6h-5.4V44z M23.1,18c-1.7,0-3.1,1.4-3.1,3.1c0,1.7,1.4,3.1,3.1,3.1 c1.7,0,3.1-1.4,3.1-3.1C26.2,19.4,24.8,18,23.1,18z M39.5,26.2c-2.6,0-4.4,1.4-5.1,2.8h-0.1v-2.4h-5.2V44h5.4v-8.6 c0-2.3,0.4-4.5,3.2-4.5c2.8,0,2.8,2.6,2.8,4.6V44H46v-9.5C46,29.8,45,26.2,39.5,26.2z"/></g>
+		</symbol>
+		<symbol id="icon-pinterest" viewBox="24 16 16 32">
+			<g><path d="M32,16c-8.8,0-16,7.2-16,16c0,6.6,3.9,12.2,9.6,14.7c0-1.1,0-2.5,0.3-3.7 c0.3-1.3,2.1-8.7,2.1-8.7s-0.5-1-0.5-2.5c0-2.4,1.4-4.1,3.1-4.1c1.5,0,2.2,1.1,2.2,2.4c0,1.5-0.9,3.7-1.4,5.7 c-0.4,1.7,0.9,3.1,2.5,3.1c3,0,5.1-3.9,5.1-8.5c0-3.5-2.4-6.1-6.7-6.1c-4.9,0-7.9,3.6-7.9,7.7c0,1.4,0.4,2.4,1.1,3.1 c0.3,0.3,0.3,0.5,0.2,0.9c-0.1,0.3-0.3,1-0.3,1.3c-0.1,0.4-0.4,0.6-0.8,0.4c-2.2-0.9-3.3-3.4-3.3-6.1c0-4.5,3.8-10,11.4-10 c6.1,0,10.1,4.4,10.1,9.2c0,6.3-3.5,11-8.6,11c-1.7,0-3.4-0.9-3.9-2c0,0-0.9,3.7-1.1,4.4c-0.3,1.2-1,2.5-1.6,3.4 c1.4,0.4,3,0.7,4.5,0.7c8.8,0,16-7.2,16-16C48,23.2,40.8,16,32,16z"/></g>
+		</symbol>
+		<symbol id="icon-youtube" viewBox="24 16 16 32">
+			<g><path d="M46.7,26c0,0-0.3-2.1-1.2-3c-1.1-1.2-2.4-1.2-3-1.3C38.3,21.4,32,21.4,32,21.4h0 c0,0-6.3,0-10.5,0.3c-0.6,0.1-1.9,0.1-3,1.3c-0.9,0.9-1.2,3-1.2,3S17,28.4,17,30.9v2.3c0,2.4,0.3,4.9,0.3,4.9s0.3,2.1,1.2,3 c1.1,1.2,2.6,1.2,3.3,1.3c2.4,0.2,10.2,0.3,10.2,0.3s6.3,0,10.5-0.3c0.6-0.1,1.9-0.1,3-1.3c0.9-0.9,1.2-3,1.2-3s0.3-2.4,0.3-4.9 v-2.3C47,28.4,46.7,26,46.7,26z M28.9,35.9l0-8.4l8.1,4.2L28.9,35.9z"/></g>
+		</symbol>
+		<symbol id="icon-whatsapp" viewBox="0 0 512 512">
+			<g><path d="M46,467l29.7-108.4C57.4,326.9,47.7,291,47.8,254.1C47.8,138.8,141.6,45,256.9,45c55.9,0,108.4,21.8,147.9,61.3c39.5,39.5,61.2,92.1,61.2,147.9c0,115.3-93.9,209.1-209.1,209.1c0,0,0,0,0,0h-0.1c-35,0-69.4-8.8-99.9-25.5L46,467z M162,400.1l6.3,3.8c26.7,15.8,57.3,24.2,88.5,24.2h0.1c95.8,0,173.8-78,173.8-173.8c0-46.4-18-90.1-50.9-123c-32.8-32.9-76.5-51-122.9-51c-95.9,0-173.8,78-173.9,173.8c0,32.8,9.2,64.8,26.6,92.5l4.1,6.6l-17.6,64.1L162,400.1z"/><path fill-rule="evenodd" clip-rule="evenodd" d="M362.2,304c-1.3-2.2-4.8-3.5-10-6.1c-5.2-2.6-30.9-15.3-35.7-17c-4.8-1.7-8.3-2.6-11.8,2.6c-3.5,5.2-13.5,17-16.5,20.5c-3,3.5-6.1,3.9-11.3,1.3c-5.2-2.6-22.1-8.1-42-25.9c-15.5-13.9-26-31-29.1-36.2c-3-5.2-0.3-8.1,2.3-10.7c2.4-2.3,5.2-6.1,7.8-9.2c2.6-3.1,3.5-5.2,5.2-8.7c1.7-3.5,0.9-6.5-0.4-9.2c-1.3-2.6-11.8-28.3-16.1-38.8c-4.2-10.2-8.5-8.8-11.8-9c-3-0.2-6.5-0.2-10-0.2c-3.5,0-9.1,1.3-13.9,6.5c-4.8,5.2-18.3,17.9-18.3,43.6c0,25.7,18.7,50.6,21.3,54.1c2.6,3.5,36.8,56.3,89.3,78.9c12.5,5.4,22.2,8.6,29.8,11c12.5,4,23.9,3.4,32.9,2.1c10-1.5,30.9-12.6,35.3-24.8C363.5,316.6,363.5,306.2,362.2,304z"/></g>
+		</symbol>
+	</defs>
+</svg>
+
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.266 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2022-12-24 06:24:12 -->
+
+<!-- Compression = gzip -->
